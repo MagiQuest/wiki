@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/MagiQuest/magiquest.github.io/tree/main/my-website/',
+            'https://github.com/MagiQuest/magiquest.github.io/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -54,13 +54,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/magiquest-social-card.jpg',
       navbar: {
         title: 'MQ Wiki',
         logo: {
           alt: 'MQ Wiki Logo',
-          src: 'img/logo.svg',
+          src: 'img/MQ.svg',
         },
         items: [
           {
@@ -87,11 +85,11 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
+                label: 'Official MQ Discord',
                 href: 'https://discord.com/invite/6e4whagCph',
               },
               {
-                label: 'Reddit',
+                label: 'Official MQ Reddit',
                 href: 'https://www.reddit.com/r/MagiQuest',
               },
             ],
@@ -106,7 +104,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} MQ-RR, Co-op. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
