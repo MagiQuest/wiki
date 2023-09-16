@@ -6,4 +6,5 @@ tags:
   - Heroic Adventure
   - Legacy
 sidebar_position: 2
+slug: heroic_dragon_adventure
 ---

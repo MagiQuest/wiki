@@ -1,8 +1,8 @@
 ---
-id: 
-title: 
+id: magi
+title: Magi
 tags:
-  - 
-sidebar_position: 
-slug: 
+  - Info
+sidebar_position: 5
+slug: /magi
 ---

@@ -1,8 +1,8 @@
 ---
-id: 
-title: 
+id: magiequipment
+title: Magi Equipment
 tags:
-  - 
-sidebar_position: 
-slug: 
+  - Info
+sidebar_position: 6
+slug: /magi_equipment
 ---

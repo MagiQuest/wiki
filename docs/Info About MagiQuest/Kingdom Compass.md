@@ -1,8 +1,9 @@
 ---
-id: 
-title: 
+id: kingdomcompass
+title: Kingdom Compass
 tags:
-  - 
-sidebar_position: 
-slug: 
+  - Items
+  - Info
+sidebar_position: 4
+slug: /kingdom_compass
 ---

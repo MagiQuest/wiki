@@ -1,8 +1,8 @@
 ---
-id: 
-title: 
+id: scoreboards
+title: Score Boards
 tags:
-  - 
-sidebar_position: 
-slug: 
+  - Info
+sidebar_position: 7
+slug: /score_boards
 ---

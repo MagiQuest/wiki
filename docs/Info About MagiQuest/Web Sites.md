@@ -1,8 +1,8 @@
 ---
-id: 
-title: 
+id: websites
+title: Web Sites
 tags:
-  - 
-sidebar_position: 
-slug: 
+  - Info
+sidebar_position: 10
+slug: /web_sites
 ---

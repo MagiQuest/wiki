@@ -1,8 +1,9 @@
 ---
-id: 
-title: 
+id: goldenkey
+title: Golden Key
 tags:
-  - 
-sidebar_position: 
-slug: 
+  - Items
+  - Info
+sidebar_position: 3
+slug: /golden_key
 ---
