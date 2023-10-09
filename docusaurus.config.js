@@ -14,12 +14,12 @@ const config = {
   url: 'https://magiquest.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/wiki-mirror/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'magiquest', // Usually your GitHub org/user name.
-  projectName: 'magiquest.github.io', // Usually your repo name.
+  projectName: 'wiki-mirror', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -77,7 +77,7 @@ const config = {
             items: [
               {
                 label: 'Legacy Wiki',
-                to: '/docs/intro',
+                to: '/docs/',
               },
             ],
           },
@@ -85,12 +85,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Official MQ Discord',
+                label: 'Discord',
                 href: 'https://discord.com/invite/6e4whagCph',
               },
               {
-                label: 'Official MQ Reddit',
+                label: 'Reddit',
                 href: 'https://www.reddit.com/r/MagiQuest',
+              },
+              {
+                label: 'Wiki',
+                href: 'https://magiquest.fandom.com',
               },
             ],
           },
