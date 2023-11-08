@@ -1,7 +1,10 @@
 ---
-title: Markdown page example
+id: 
+title: 
+tags:
+  - 
+sidebar_position: 
+slug: 
 ---
 
-# Markdown page example
-
-You don't need React to write simple standalone pages.
+Placeholder Template Page
