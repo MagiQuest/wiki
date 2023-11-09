@@ -4,6 +4,7 @@ title: Home
 tags:
   - Home Page
   - Getting started
+  - MQ Wiki
 sidebar_position: 1
 slug: /
 ---

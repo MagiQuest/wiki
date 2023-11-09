@@ -1,10 +1,10 @@
 ---
-id: 
-title: 
+id: template
+title: Template
 tags:
-  - 
-sidebar_position: 
-slug: 
+  - Tag
+sidebar_position: 0
+slug: /template_page
 ---
 
 Placeholder Template Page
