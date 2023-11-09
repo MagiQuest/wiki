@@ -58,7 +58,7 @@ const config = {
         title: 'MQ Wiki',
         logo: {
           alt: 'MQ Wiki Logo',
-          src: 'img/MQ.svg',
+          src: 'img/MQ.png',
         },
         items: [
           {
