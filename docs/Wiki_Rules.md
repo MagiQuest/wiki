@@ -14,15 +14,6 @@ Thank you for your interest in contributing to the MagiQuest Wiki! Before you ge
 
 **These rules may change in the future.** *(last update 21/08/2023)*
 
-| Contents |
-| --- |
-| [1. Spelling & Grammar](#please-check-your-spelling-and-grammar) |
-| [2. Accuracy](#try-to-keep-articles-accurate) |
-| [3. Avoid Redundancy](#avoid-redundancy) |
-| [4. Respect Others](#respect-other-users) |
-| [5. Common Sense](#common-sense) |
-| [6. Sanctions](#sanctions) |
-
 ### Please check your spelling and grammar
 
 On the main namespace and Wiki blogs, articles must use at least some semblance of correct spelling and grammar. This rule is a little more lenient on personal blogs and pages, where you are expected to be understandable but some more informality is allowed. We also have a wiki [Style Guide](docs\Style_Guide.md) which all articles on the main namespace should follow.

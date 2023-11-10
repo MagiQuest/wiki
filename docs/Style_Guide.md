@@ -14,13 +14,6 @@ Thank you for your interest in editing the MagiQuest Wiki! To maintain a consist
 
 **This Style Guide is subject to change.** *(last updated 21/08/2023)*
 
-| Contents |
-| --- |
-| [1. General Style Guide](#general-style-guide) |
-| [2. Quest Page Sections](#quest-page-sections) |
-| [3. Adventure Page Sections](#adventure-page-sections) |
-| [4. Location Page Sections](#location-page-sections) |
-
 ### General Style Guide
 
 - Avoid the use of the word “you”. Refer to the reader in the third-person as “the Magi”, “Magi” (plural) or “the player(s)”.
