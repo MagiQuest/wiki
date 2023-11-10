@@ -110,11 +110,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'MQ-RR',
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/magiquest/wiki-mirror',
+                href: 'https://github.com/magiquest',
               },
             ],
           },

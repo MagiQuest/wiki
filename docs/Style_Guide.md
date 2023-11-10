@@ -30,7 +30,7 @@ Thank you for your interest in editing the MagiQuest Wiki! To maintain a consist
 
 Please reach out to the Wiki administrators or on the [MagiQuest Discord's](https://discord.com/invite/6e4whagCph) Wiki channels if you have any questions or concerns.
 
-You may also want to read the [Wiki's rules page.](docs\Wiki Rules.md)
+You may also want to read the [Wiki's rules page.](docs\Wiki_Rules.md)
 
 ### Quest Page Sections
 
@@ -50,7 +50,7 @@ The model pages for quests are the Lightning Rune and Enchant Creature Rune page
 
 ### Adventure Page Sections
 
-The model page for adventure is the [Dragon Adventure](docs\Adventures\Adventures in MagiQuest Legacy\Dragon Adventure.md) page. Below is information on what belongs in each section of the page.
+The model page for adventure is the [Dragon Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Dragon_Adventure.md) page. Below is information on what belongs in each section of the page.
 
 **Introduction:** Introduce the adventure. Check a couple different versions of the ABOW for what it believes to be crucial elements of the story, and mention main characters. This should be no more than a few sentences.
 

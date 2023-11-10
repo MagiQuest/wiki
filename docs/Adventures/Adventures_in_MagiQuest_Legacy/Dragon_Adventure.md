@@ -2,7 +2,7 @@
 id: dragonadventure
 title: Dragon Adventure
 tags:
-  - Adventure
+  - Adventures
   - Legacy
 sidebar_position: 1
 slug: /dragon_adventure

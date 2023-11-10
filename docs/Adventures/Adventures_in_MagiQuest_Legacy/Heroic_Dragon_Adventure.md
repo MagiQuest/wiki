@@ -2,8 +2,8 @@
 id: hdragonadventure
 title: Heroic Dragon Adventure
 tags:
-  - Adventure
-  - Heroic Adventure
+  - Adventures
+  - Heroic Adventures
   - Legacy
 sidebar_position: 2
 slug: heroic_dragon_adventure

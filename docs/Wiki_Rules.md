@@ -25,7 +25,7 @@ Thank you for your interest in contributing to the MagiQuest Wiki! Before you ge
 
 ### Please check your spelling and grammar
 
-On the main namespace and Wiki blogs, articles must use at least some semblance of correct spelling and grammar. This rule is a little more lenient on personal blogs and pages, where you are expected to be understandable but some more informality is allowed. We also have a wiki [Style Guide](docs\Style Guide.md) which all articles on the main namespace should follow.
+On the main namespace and Wiki blogs, articles must use at least some semblance of correct spelling and grammar. This rule is a little more lenient on personal blogs and pages, where you are expected to be understandable but some more informality is allowed. We also have a wiki [Style Guide](docs\Style_Guide.md) which all articles on the main namespace should follow.
 
 ### Try to keep articles accurate
 
@@ -51,4 +51,4 @@ If you are breaking the guidelines, you will first receive a Message reminding y
 
 These rules were originally written by Zhenya.
 
-You may also want to read the [Wiki's style guide page](docs\Style Guide.md).
+You may also want to read the [Wiki's style guide page](docs\Style_Guide.md).

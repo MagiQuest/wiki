@@ -2,7 +2,7 @@
 id: ursamajoradventure
 title: Ursa Major Adventure
 tags:
-  - Adventure
+  - Adventures
   - Legacy
   - GWL Exclusive
 sidebar_position: 4
