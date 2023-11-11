@@ -1,3 +1,6 @@
+> [!Warning]
+> This website is in very early access and is to show the possibilty of a Fandom alternative to the MagiQuest community. For the full wiki, go to [magiquest.fandom.com](https://magiquest.fandom.com)!
+
 # Website
 
 This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
