@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmq_wiki_mirror=self.webpackChunkmq_wiki_mirror||[]).push([[3250],{4186:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/tag","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
