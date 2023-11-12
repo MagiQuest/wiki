@@ -1,17 +1,17 @@
-mqrr:
-  name: MQ-RR, Co-op
+mqvr:
+  name: MQ-VR, Co-op
   title: Organization
   url: https://github.com/magiquest
   image_url: https://github.com/magiquest.png
 
 duke:
   name: dukedotdev
-  title: Project Manager @ MQ-RR
+  title: Project Manager @ MQ-VR
   url: https://dukedot.dev
   image_url: https://github.com/dukedotdev.png
 
 alak:
   name: AlakNakNakNak
-  title: Project Manager @ MQ-RR
+  title: Project Manager @ MQ-VR
   url: https://rec.net/user/alaknaknaknak
   image_url: https://github.com/alaknaknaknak.png
