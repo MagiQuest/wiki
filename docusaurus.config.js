@@ -116,7 +116,7 @@ const config = {
             ],
           },
           {
-            title: 'MQ-RR',
+            title: 'MQ-VR',
             items: [
               {
                 label: 'GitHub',
@@ -125,7 +125,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} MQ-RR, Co-op. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} MQ-VR, Co-op. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
