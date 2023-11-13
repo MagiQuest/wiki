@@ -4,7 +4,6 @@ title: Wiki Rules
 tags:
   - Getting started
   - Contributors
-  - Editors
   - MQ Wiki
 sidebar_position: 2
 slug: /wiki_rules

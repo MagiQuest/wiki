@@ -2,7 +2,7 @@
 id: costumes
 title: Costumes
 tags:
-  - Items
+  - Item
   - Info
 sidebar_position: 2
 slug: /costumes

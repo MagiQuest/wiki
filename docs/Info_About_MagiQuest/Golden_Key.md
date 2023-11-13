@@ -2,7 +2,7 @@
 id: goldenkey
 title: Golden Key
 tags:
-  - Items
+  - Item
   - Info
 sidebar_position: 3
 slug: /golden_key

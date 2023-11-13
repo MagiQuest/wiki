@@ -2,7 +2,7 @@
 id: kingdomcompass
 title: Kingdom Compass
 tags:
-  - Items
+  - Item
   - Info
 sidebar_position: 4
 slug: /kingdom_compass

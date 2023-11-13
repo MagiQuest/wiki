@@ -2,7 +2,7 @@
 id: wandmechanic
 title: Wands
 tags:
-  - Game Mechnic
+  - Game Mechanic
   - Info
 sidebar_position: 1
 slug: /wands_mechanic

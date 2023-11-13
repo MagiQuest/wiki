@@ -4,7 +4,6 @@ title: Style Guide
 tags:
   - Getting started
   - Contributors
-  - Editors
   - MQ Wiki
 sidebar_position: 3
 slug: /style_guide
