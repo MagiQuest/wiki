@@ -27,7 +27,7 @@ You may also want to read the [Wiki's rules page.](docs\Wiki_Rules.md)
 
 ### Quest Page Sections
 
-The model pages for quests are the Lightning Rune and Enchant Creature Rune pages. Below is information on what belongs in each section of the page.
+The model pages for quests are the [Lightning Rune](docs\Home.mdx) and [Enchant Creature Rune](docs\Home.mdx) pages. Below is information on what belongs in each section of the page.
 
 **Introduction:** Introduce the rune and it’s power in the most basic form. Mention any clan association it may have, and what set it’s apart of.
 
@@ -63,7 +63,7 @@ The model page for adventure is the [Dragon Adventure](docs\Adventures\Adventure
 
 ### Location Page Sections
 
-The model page for locations is the Pigeon Forge, TN page. Below is information on what belongs in each section of the page.
+The model page for locations is the [Pigeon Forge, TN](docs\Home.mdx) page. Below is information on what belongs in each section of the page.
 
 **Introduction:** Introduce the location by describing it’s realm type, how much content it has, any exclusive content or noteworthy packages (this includes mentioning whether its a Goblin or Ursa lodge)
 

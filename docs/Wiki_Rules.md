@@ -40,6 +40,6 @@ Please use your best judgement if something is in the gray area. Feel free to me
 
 If you are breaking the guidelines, you will first receive a Message reminding you to follow the guidelines and specifying which rule you have broken. Continued offenses may result in a block from editing.
 
-These rules were originally written by Zhenya.
+These rules were originally written by [Zhenya](https://discord.com/users/293889747854557185).
 
 You may also want to read the [Wiki's style guide page](docs\Style_Guide.md).
