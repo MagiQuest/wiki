@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmq_wiki_mirror=self.webpackChunkmq_wiki_mirror||[]).push([[5530],{9867:s=>{s.exports=JSON.parse('{"label":"Quests","permalink":"/tags/quests","allTagsPath":"/tags","count":1,"items":[{"id":"Quests/quests","title":"Quests","description":"","permalink":"/quests"}],"unlisted":false}')}}]);
