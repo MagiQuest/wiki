@@ -1,6 +1,7 @@
 ---
 id: princessandgoblinkingadventure
 title: Princess & Goblin King Adventure
+description: The Princess & Goblin King Adventure sometimes simply referred to at the Goblin Adventure, tasks Magi with facing the Goblin King, and returning Princess Candice's stolen jewelry.
 tags:
   - Adventures
   - Legacy

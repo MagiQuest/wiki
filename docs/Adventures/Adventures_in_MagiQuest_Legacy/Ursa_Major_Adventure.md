@@ -1,6 +1,7 @@
 ---
 id: ursamajoradventure
 title: Ursa Major Adventure
+description: The Ursa Major Adventure follows Magi in their quest to help the Great Bear, Ursa Major, return to the stars before he fades from existence.
 tags:
   - Adventures
   - Legacy
@@ -28,7 +29,7 @@ slug: ursa_major_adventure
   | 600 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24"></img> | 300 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25"></img> | Ursa Major Amulet |
 </details>
 
-The Ursa Major Adventure follows [Magi](docs\Info_About_MagiQuest\Magi.md) in their quest to help the Great Bear, [Ursa Major](docs\Home.mdx), return to the stars before he fades from existence. He was summoned by [Princess Amora](docs\Home.mdx) to solve a problem in the forest realm, when his amulet breaks, and he loses his ability to return to the stars. The Magi is tasked with learning where the amulet's base and all five of it's gemstones hide, then retrieving them to return to Ursa. This adventure and it's associated quests are part of the [Great Wolf Lodge Exclusive Content](docs\Home.mdx) set. 
+The **Ursa Major Adventure** follows [Magi](docs\Info_About_MagiQuest\Magi.md) in their quest to help the Great Bear, [Ursa Major](docs\Home.mdx), return to the stars before he fades from existence. He was summoned by [Princess Amora](docs\Home.mdx) to solve a problem in the forest realm, when his amulet breaks, and he loses his ability to return to the stars. The Magi is tasked with learning where the amulet's base and all five of it's gemstones hide, then retrieving them to return to Ursa. This adventure and it's associated quests are part of the [Great Wolf Lodge Exclusive Content](docs\Home.mdx) set. 
 
 ### Walkthrough
 

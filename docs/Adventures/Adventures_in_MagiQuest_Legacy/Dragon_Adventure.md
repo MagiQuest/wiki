@@ -1,6 +1,7 @@
 ---
 id: dragonadventure
 title: Dragon Adventure
+description: The Dragon Adventure, also known as the Red Dragon Adventure or Fire Dragon Adventure, brings Magi face to face with the fearsome red dragon Charlock.
 tags:
   - Adventures
   - Legacy
