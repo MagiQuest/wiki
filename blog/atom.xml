@@ -15,16 +15,8 @@
         <summary type="html"><![CDATA[This is a blog post shell! Will we use it? Only time will tell :>]]></summary>
         <content type="html"><![CDATA[<p>This is a blog post shell! Will we use it? Only time will tell :&gt;</p>]]></content>
         <author>
-            <name>MQ-VR</name>
-            <uri>https://github.com/magiquest</uri>
-        </author>
-        <author>
             <name>dukedotdev</name>
             <uri>https://dukedot.dev</uri>
-        </author>
-        <author>
-            <name>AlakNakNakNak</name>
-            <uri>https://rec.net/user/alaknaknaknak</uri>
         </author>
         <category label="tag" term="tag"/>
     </entry>
