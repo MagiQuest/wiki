@@ -9,6 +9,10 @@ slug: /magi
 
 A **Magi** is the name used to describe the player whenever they play [MagiQuest](docs\Info_About_MagiQuest\index.mdx). In the game, they are seen as heroic and are chosen to solve the problems facing the magical world of MagiQuest. There are various levels a Magi can achieve depending on how far they get in the game.
 
+<iframe width="245" height="137" src="https://www.youtube-nocookie.com/embed/dif3wpTxwe0?si=YFosm8zo3ACcn79u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<img src="\img\Magiquest1.webp" alt="A group of Magi casting their wands" width="180" hight="120" title="A group of Magi casting their wands"></img>
+
 ### Magi Name
 
 Each magi chooses their own name upon their first entry into a MagiQuest realm. Once a Magi is known to one realm, they are known to all.
