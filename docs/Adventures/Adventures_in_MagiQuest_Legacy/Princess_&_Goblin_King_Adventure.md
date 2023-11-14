@@ -7,18 +7,18 @@ tags:
   - Legacy
   - Legacy Base Content
 sidebar_position: 2
-slug: princess_and_goblin_king_adventure
+slug: /princess_and_goblin_king_adventure
 ---
 
 <details>
   <summary>Princess & Goblin King Adventure Infobox:</summary>
   | Princess & Goblin King Adventure |
   | --- |
-  | <img src="\img\Goblin_Adventure_Art.webp" alt="" width="270" hight="338"></img> |
+  | <img src="\img\Goblin_Adventure_Art.webp" alt="Princess & Goblin King Adventure Art" width="270" hight="338" title="Princess & Goblin King Adventure Art"></img> |
 
   | General Information |  |
   | --- | --- |
-  | Content Set | [Legacy Base Content](docs\Home.mdx) |
+  | Content Set | [Legacy Base Content](docs\Info_About_MagiQuest\Content_Sets\Legacy_Base_Content.md) |
   | Adventure Giver | [Quest Master](docs\Home.mdx) |
   | Reward Giver | Princess Candice |
   | Prerequisites | - [Distract Rune](docs\Home.mdx) (Depending on location)<br></br> - [Lightning Rune](docs\Home.mdx)<br></br> - [Portal Rune](docs\Home.mdx)|
@@ -26,7 +26,7 @@ slug: princess_and_goblin_king_adventure
   | Rewards |  |  |
   | --- | --- | --- |
   | ***Gold*** | ***XP*** | ***Rune*** |
-  | 500 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24"></img> | 500 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25"></img> | Andover Amulet |
+  | 500 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 500 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | Andover Amulet |
 
   | In Other Versions |  |
   | --- | --- |
@@ -55,7 +55,7 @@ If the location requires the use of the Distract Rune for the adventure, the Gob
 
 Moving forward, the adventure is the same at all locations. The next step requires the use of the [Portal Rune](docs\Home.mdx) to enter the king’s chambers, which is done by casting at the Portal Rune symbol on the wall. The Goblin King will then enter his throne room with appropriate fanfare as the Magi approaches. After calling the Magi before him a weakling in various ways, he will offer to tell them how to find the jewels they seek on one condition: they must defeat him in battle.
 
-<img src="\img\Goblin_modern_promo.webp" alt="Dueling the Goblin King at Pigeon Forge, TN" width="180" hight="120"></img>
+<img src="\img\Goblin_modern_promo.webp" alt="Dueling the Goblin King at Pigeon Forge, TN" width="180" hight="120" title="Dueling the Goblin King at Pigeon Forge, TN"></img>
 
 During the duel, the player uses the Lightning Rune to drain the mana of the Goblin King by casting at him. The King will use his own lightning powers granted by his bone scepter to attack the Magi. While the King will always move first, he is generally slower than the Magi. This allows the player to strike multiple times between each of the Goblin King's attacks. The player cannot dodge or negate the damage of the King's lighting, and must simply be quicker than him. The optimal time to cast is when the King is fumbling around, attempting to dodge the player's lightning. After five blasts of lightning, the King's mana will be fully depleted. The Goblin King then tells the Magi that they may now collect the Princess's jewels by waving their wand at them.
 
@@ -65,7 +65,7 @@ Princess Candice's jewels are scattered differently depending on the realm. Some
 
 ### Andover Amulet
 
-<img src="\img\Andover_Amulet.webp" alt="The Andover Amulet" width="137" hight="192"></img> The Andover Amulet is described by Princess Candice as an ancient rune with the power to reverse an opponent's spell. In Magi Duels, using the rune will cause the opponent's spell on the same turn to be reversed in a variety of ways. Spells that drain mana will cause the opponent to drain their own mana. Healing spells casted by the opponent will instead heal the user of the Andover Amulet. Shielding spells will fizzle, and do nothing. When upgraded, the rune will reverse and double the effects of the reversed spell. Damage dealing spells will deal double damage, and healing spells will double their healing. With proper usage, the Andover Amulet has the potential to become the strongest defensive spell and instantly end duels.
+<img src="\img\Andover_Amulet.webp" alt="The Andover Amulet" width="137" hight="192" title="The Andover Amulet"></img> The Andover Amulet is described by Princess Candice as an ancient rune with the power to reverse an opponent's spell. In Magi Duels, using the rune will cause the opponent's spell on the same turn to be reversed in a variety of ways. Spells that drain mana will cause the opponent to drain their own mana. Healing spells casted by the opponent will instead heal the user of the Andover Amulet. Shielding spells will fizzle, and do nothing. When upgraded, the rune will reverse and double the effects of the reversed spell. Damage dealing spells will deal double damage, and healing spells will double their healing. With proper usage, the Andover Amulet has the potential to become the strongest defensive spell and instantly end duels.
 
 ### Strategy and Tips
 

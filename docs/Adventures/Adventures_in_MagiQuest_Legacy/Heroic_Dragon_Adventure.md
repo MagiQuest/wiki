@@ -6,7 +6,7 @@ tags:
   - Heroic
   - Legacy
 sidebar_position: 4
-slug: heroic_dragon_adventure
+slug: /heroic_dragon_adventure
 ---
 
 This adventure consist of fighting both [Charlock](docs\Home.mdx) and [Winterra](docs\Home.mdx), switching between the two battles. This encounter took place at the same station as Charlock's encounter, as both Charlock and Wintera appear there.

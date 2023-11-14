@@ -30,7 +30,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/MagiQuest/wiki-mirror/tree/main/',
+            'https://github.com/MagiQuest/wiki-mirror/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -104,7 +104,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} MQ-VR, Co-op. Built with Docusaurus.`,
+        copyright: `Community content is available under CC-BY-SA unless otherwise noted. Site owned by MQ-VR. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -7,18 +7,18 @@ tags:
   - Legacy
   - GWL Exclusive
 sidebar_position: 3
-slug: ursa_major_adventure
+slug: /ursa_major_adventure
 ---
 
 <details>
   <summary>Ursa Major Adventure Infobox:</summary>
   | Ursa Major Adventure Adventure |
   | --- |
-  | <img src="\img\Ursa_Adventure_Art.webp" alt="Ursa Major Adventure Art" width="270" hight="338"></img> |
+  | <img src="\img\Ursa_Adventure_Art.webp" alt="Ursa Major Adventure Art" width="270" hight="338" title="Ursa Major Adventure Art"></img> |
 
   | General Information |  |
   | --- | --- |
-  | Content Set | [Great Wolf Lodge Exclusive Content](docs\Home.mdx) |
+  | Content Set | [Great Wolf Lodge Exclusive Content](docs\Info_About_MagiQuest\Content_Sets\Great_Wolf_Lodge_Exclusive.md) |
   | Adventure Giver | [Princess Amora](docs\Home.mdx) |
   | Reward Giver | [Ursa Major](docs\Home.mdx) |
   | Prerequisites | - [Celestial Rune](docs\Home.mdx)<br></br> - [Great Wolf Rune](docs\Home.mdx) |
@@ -26,10 +26,10 @@ slug: ursa_major_adventure
   | Rewards |  |  |
   | --- | --- | --- |
   | ***Gold*** | ***XP*** | ***Rune*** |
-  | 600 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24"></img> | 300 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25"></img> | Ursa Major Amulet |
+  | 600 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 300 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | Ursa Major Amulet |
 </details>
 
-The **Ursa Major Adventure** follows [Magi](docs\Info_About_MagiQuest\Magi.md) in their quest to help the Great Bear, [Ursa Major](docs\Home.mdx), return to the stars before he fades from existence. He was summoned by [Princess Amora](docs\Home.mdx) to solve a problem in the forest realm, when his amulet breaks, and he loses his ability to return to the stars. The Magi is tasked with learning where the amulet's base and all five of it's gemstones hide, then retrieving them to return to Ursa. This adventure and it's associated quests are part of the [Great Wolf Lodge Exclusive Content](docs\Home.mdx) set. 
+The **Ursa Major Adventure** follows [Magi](docs\Info_About_MagiQuest\Magi.md) in their quest to help the Great Bear, [Ursa Major](docs\Home.mdx), return to the stars before he fades from existence. He was summoned by [Princess Amora](docs\Home.mdx) to solve a problem in the forest realm, when his amulet breaks, and he loses his ability to return to the stars. The Magi is tasked with learning where the amulet's base and all five of it's gemstones hide, then retrieving them to return to Ursa. This adventure and it's associated quests are part of the [Great Wolf Lodge Exclusive Content](docs\Info_About_MagiQuest\Content_Sets\Great_Wolf_Lodge_Exclusive.md) set. 
 
 ### Walkthrough
 
@@ -55,7 +55,7 @@ When the Magi returns to a Quest Tree, they will be greeted once again by Prince
 
 ### Ursa Major Amulet
 
-<img src="\img\Ursa_Major_Amulet.webp" alt="The Ursa Major Amulet" width="137" hight="192"></img> After restoring Ursa Major's power, he gives the Magi his amulet. He describes it has having the ability to summon him back from the stars, for when the player "need help defending yourself... from dark forces..." and that the Great Bear watches and guards over them. The power of the amulet is never used in-game. 
+<img src="\img\Ursa_Major_Amulet.webp" alt="The Ursa Major Amulet" width="137" hight="192" title="The Ursa Major Amulet"></img> After restoring Ursa Major's power, he gives the Magi his amulet. He describes it has having the ability to summon him back from the stars, for when the player "need help defending yourself... from dark forces..." and that the Great Bear watches and guards over them. The power of the amulet is never used in-game. 
 
 ### Strategy and Tips
 

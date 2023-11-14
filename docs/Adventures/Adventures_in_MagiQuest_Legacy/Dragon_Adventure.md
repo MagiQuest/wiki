@@ -14,11 +14,11 @@ slug: /dragon_adventure
   <summary>Dragon Adventure Infobox:</summary>
   | Dragon Adventure |
   | --- |
-  | <img src="\img\Dragon_Adventure_Art.webp" alt="Dragon Adventure Art" width="270" hight="338"></img> |
+  | <img src="\img\Dragon_Adventure_Art.webp" alt="Dragon Adventure Art" width="270" hight="338" title="Dragon Adventure Art"></img> |
 
   | General Information |  |
   | --- | --- |
-  | Content Set | [Legacy Base Content](docs\Home.mdx) |
+  | Content Set | [Legacy Base Content](docs\Info_About_MagiQuest\Content_Sets\Legacy_Base_Content.md) |
   | Adventure Giver | [Quest Master](docs\Home.mdx) |
   | Reward Giver | [Charlock](docs\Home.mdx) |
   | Prerequisites | - [Rune of Freezing](docs\Home.mdx) <br></br> - [Rune of Protection](docs\Home.mdx) <br></br> - [Portal Rune](docs\Home.mdx) <br></br> - [Ice Arrow Rune](docs\Home.mdx) <br></br> - [Reveal Rune](docs\Home.mdx) ([Myrtle Beach, SC](docs\Home.mdx) and Tokyo Dome, JP) |
@@ -26,7 +26,7 @@ slug: /dragon_adventure
   | Rewards |  |  |
   | --- | --- | --- |
   | ***Gold*** | ***XP*** | ***Rune*** |
-  | 2500 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24"></img> | 500 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25"></img> | Rune of Dragons |
+  | 2500 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 500 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | Rune of Dragons |
 
   | In Other Versions |  |
   | --- | --- |
@@ -57,13 +57,13 @@ Once at the portal at the front of the Dragon's Lair, Magi must first cast at th
 
 #### Dueling Charlock
 
-<img src="\img\Charlock_Promo_Image.webp" alt="A duel against Charlock in Myrtle Beach, SC" width="180" hight="117"></img> In a battle against Charlock, Magi must select a spell from the podium and cast it outwards. Depending on the location, you may be faced with a Point-and-Cast podium, or TouchDuel podium. When the battle begins, Charlock will wake up and briefly monologue before attacking with his fiery breath. Before he does so, the player should cast the Rune of Protection to mitigate the damage. If a Magi is wielding a dragon wand, the damage they take will be even further reduced. After the flames clear, Charlock will lash his tail at his opponent, providing an opportunity for the Magi to cast the Rune of Freezing. Successfully hitting the spell will stop Charlock in his tracks by blanketing him in ice. Finally, now that Charlock is unable to move, the player must use the Ice Arrow Rune, which shatters the ice around Charlock, and reduces his total mana by 1/3rd.
+<img src="\img\Charlock_Promo_Image.webp" alt="A duel against Charlock in Myrtle Beach, SC" width="180" hight="117" title="A duel against Charlock in Myrtle Beach, SC"></img> In a battle against Charlock, Magi must select a spell from the podium and cast it outwards. Depending on the location, you may be faced with a Point-and-Cast podium, or TouchDuel podium. When the battle begins, Charlock will wake up and briefly monologue before attacking with his fiery breath. Before he does so, the player should cast the Rune of Protection to mitigate the damage. If a Magi is wielding a dragon wand, the damage they take will be even further reduced. After the flames clear, Charlock will lash his tail at his opponent, providing an opportunity for the Magi to cast the Rune of Freezing. Successfully hitting the spell will stop Charlock in his tracks by blanketing him in ice. Finally, now that Charlock is unable to move, the player must use the Ice Arrow Rune, which shatters the ice around Charlock, and reduces his total mana by 1/3rd.
 
 This cycle of protection, freeze, and ice arrow, repeats twice more. Charlock becomes progressively more impressed and enraged throughout the duel. After the third and final blow, Charlock will stumble onto the ground and admit defeat. He gives the Magi 2,500 gold pieces from his treasure, as well as the Rune of Dragons. To conclude the adventure, Magi must cast into the treasure pile to receive their gold.
 
 ### Rune of Dragons
 
-<img src="\img\Dragon_rune.webp" alt="The Dragon Rune" width="137" hight="192"></img> The Rune of Dragons is described by Charlock as "the most powerful of all dueling runes." In Magi Duels, it summons Charlock and his fiery breath to the battlefield dealing 50 points of mana damage to the opponent. When upgraded, it does 70 damage, making it by far the strongest offensive spell.
+<img src="\img\Dragon_rune.webp" alt="The Rune of Dragons" width="137" hight="192" title="The Rune of Dragons"></img> The Rune of Dragons is described by Charlock as "the most powerful of all dueling runes." In Magi Duels, it summons Charlock and his fiery breath to the battlefield dealing 50 points of mana damage to the opponent. When upgraded, it does 70 damage, making it by far the strongest offensive spell.
 
 Outside of dueling, obtaining the Rune of Dragons is also a requirement for both the [Ice Dragon Adventure](docs\Home.mdx) and the [Silver Dragon Portal Adventure](docs\Home.mdx). Additionally, at the [Pigeon Forge, TN](docs\Home.mdx) location, wielding this rune permits Magi to unlock the Dragon Door. The door allows faster travel between the back of the Village Realm and Dragon Realm.
 
