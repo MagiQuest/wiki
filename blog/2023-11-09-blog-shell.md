@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [mqvr, duke, alak]
+authors: [duke]
 tags: [tag]
 ---
 
