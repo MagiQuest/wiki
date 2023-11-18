@@ -20,7 +20,7 @@ This article is a stub. You can help the MagiQuest wiki by expanding it using th
 
 #### Summon Xavier - Blue Claw Topper
 
-The most infamous of all chaos powers is the ability granted by the blue claw. Once triggered, [Xavier](docs\Home.mdx) will make his pressence known by causing every effect to echo his laughter. Status stations will also play a video of him laughing. The power to summon him again must be recharged by collecting one of each quest [rune](docs\Home.mdx).
+The most infamous of all chaos powers is the ability granted by the blue claw. Once triggered, [Xavier](docs\Home.mdx) will make his pressence known by causing every effect to echo his laughter. Status stations will also play a video of him laughing. The power to summon him again must be recharged by collecting one of each quest [rune](docs\Info_About_MagiQuest\Runes.md).
 
 #### Power of Laughter - Trixter's Emblem Topper
 
@@ -28,7 +28,7 @@ With the trixter's emblem topper, Magi are granted the power to summon [Neland Q
 
 #### Power of Music - Pegasus and Unicorn Horn Toppers
 
-The most helpful of all chaos powers, the power of music will grant all Magi with an active wand 1,000 gold. To go along with this, effects will begin to neigh like a unicorn. Glittertail will also appear on status stations, announcing the newly gained wealth of all Magi. The power can be recharged simply by collecting the [Heal](docs\Home.mdx), [Enchant Creature](docs\Home.mdx), and [Dazzle](docs\Home.mdx) runes.
+The most helpful of all chaos powers, the power of music will grant all Magi with an active wand 1,000 gold. To go along with this, effects will begin to neigh like a unicorn. Glittertail will also appear on status stations, announcing the newly gained wealth of all Magi. The power can be recharged simply by collecting the [Heal](docs\Home.mdx), [Enchant Creature](docs\Quests\Enchant_Creature_Rune.md), and [Dazzle](docs\Home.mdx) runes.
 
 ### Chaos Power Activation
 
@@ -46,7 +46,7 @@ The effect used to trigger chaos powers is not written in the Ancient Book of Wi
   - [Grand Mound, WA](docs\Home.mdx) - Chest underneath stairs on the first floor
   - [Tokyo Dome City, JP](docs\Home.mdx) - Unknown
   - [Concord, NC](docs\Home.mdx) - Unknown
-  - [Pigeon Forge, TN](docs\Home.mdx) - N/A (No topper powers)
+  - [Pigeon Forge, TN](docs\Realm_Locations\Pigeon_Forge_TN.md) - N/A (No topper powers)
   - [Wisconsin Dells, WI](docs\Home.mdx) - Chest on the second floor
   - Mall of America, MN - Unknown
   - Yorktown, IL - Unknown

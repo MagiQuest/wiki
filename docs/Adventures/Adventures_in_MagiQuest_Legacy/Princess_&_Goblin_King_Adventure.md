@@ -21,7 +21,7 @@ slug: /princess_and_goblin_king_adventure
   | Content Set | [Legacy Base Content](docs\Info_About_MagiQuest\Content_Sets\Legacy_Base_Content.md) |
   | Adventure Giver | [Quest Master](docs\Home.mdx) |
   | Reward Giver | Princess Candice |
-  | Prerequisites | - [Distract Rune](docs\Home.mdx) (Depending on location)<br></br> - [Lightning Rune](docs\Home.mdx)<br></br> - [Portal Rune](docs\Home.mdx)|
+  | Prerequisites | - [Distract Rune](docs\Home.mdx) (Depending on location)<br></br> - [Lightning Rune](docs\Quests\Lightning_Rune.md)<br></br> - [Portal Rune](docs\Home.mdx)|
 
   | Rewards |  |  |
   | --- | --- | --- |
@@ -45,7 +45,7 @@ The **Princess & Goblin King Adventure**, sometimes simply referred to at the Go
 
 #### Requirements
 
-To complete this adventure, Magi must possess the [Lightning Rune](docs\Home.mdx) and the [Portal Rune](docs\Home.mdx). At [Myrtle Beach, SC](docs\Home.mdx), East Hanover, NJ, Lagunasia, JP, Tokyo Dome, JP, and [Pigeon Forge, TN](docs\Home.mdx), the [Distract Rune](docs\Home.mdx) is also required. 
+To complete this adventure, Magi must possess the [Lightning Rune](docs\Quests\Lightning_Rune.md) and the [Portal Rune](docs\Home.mdx). At [Myrtle Beach, SC](docs\Home.mdx), East Hanover, NJ, Lagunasia, JP, Tokyo Dome, JP, and [Pigeon Forge, TN](docs\Realm_Locations\Pigeon_Forge_TN.md), the [Distract Rune](docs\Home.mdx) is also required. 
 
 #### Challenging the Goblin King
 
@@ -91,7 +91,7 @@ In the full version of the adventure, the Quest Master states that the only rune
 - East Hanover, NJ
 - Lagunasia, JP
 - Tokyo Dome, JP
-- [Pigeon Forge, TN](docs\Home.mdx)
+- [Pigeon Forge, TN](docs\Realm_Locations\Pigeon_Forge_TN.md)
 - [Wisconsin Dells, WI](docs\Home.mdx)
 - Mall of America, MN
 - Yorktown Center, IL

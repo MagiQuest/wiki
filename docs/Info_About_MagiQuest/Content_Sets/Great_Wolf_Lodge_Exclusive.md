@@ -20,7 +20,7 @@ In 2006, Creative Kingdoms partnered with Great Wolf Resorts to bring [MagiQuest
 
 #### Ursa Major Content
 
-In 2008, the [Pocono Mountains, PA](docs\Home.mdx) and [Grapevine, TX](docs\Home.mdx) locations were the first to receive a new set of quests and adventures. They introduce new gameplay mechanics to lodge locations, as well as new characters Princess Amora and Ursa Major. The quests were designed with a forest aesthetic in mind to compliment Great Wolf Lodge's brand. Magi are able to harness the power of the stars and help a living constellation. These quests and adventure take the place of the [Lightning Rune](docs\Home.mdx) and [Princess & Goblin King Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Princess_&_Goblin_King_Adventure.md).
+In 2008, the [Pocono Mountains, PA](docs\Home.mdx) and [Grapevine, TX](docs\Home.mdx) locations were the first to receive a new set of quests and adventures. They introduce new gameplay mechanics to lodge locations, as well as new characters Princess Amora and Ursa Major. The quests were designed with a forest aesthetic in mind to compliment Great Wolf Lodge's brand. Magi are able to harness the power of the stars and help a living constellation. These quests and adventure take the place of the [Lightning Rune](docs\Quests\Lightning_Rune.md) and [Princess & Goblin King Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Princess_&_Goblin_King_Adventure.md).
 
   - [Celestial Rune](docs\Home.mdx)
   - [Great Wolf Rune](docs\Home.mdx)
@@ -52,7 +52,7 @@ At a small number of lodges for a short period of time, a MagiQuest themed room 
 
 ### Other Elements Developed for Great Wolf Lodge
 
-  - For MagiQuest installations before 2008 (besides Myrtle Beach), the Gargoyle gives out the [Lightning Rune](docs\Home.mdx) instead of the Man in the Mist or the [Duel Master](docs\Home.mdx). The first location that received this change was Pocono Mountains, PA.
+  - For MagiQuest installations before 2008 (besides Myrtle Beach), the Gargoyle gives out the [Lightning Rune](docs\Quests\Lightning_Rune.md) instead of the Man in the Mist or the [Duel Master](docs\Home.mdx). The first location that received this change was Pocono Mountains, PA.
   - Smudgy, the creature in the cage from the Pixie Adventure, was changed from a strange creature to an otter.
   - The [Reveal Rune](docs\Home.mdx) was removed as a requirement for the Pixie Adventure and [Dragon Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Dragon_Adventure.md) for lodges, as well as the Distraction Rune from the Princess & Goblin King Adventure. These runes are not present at any lodges with [one exception](docs\Home.mdx).
   - The Dragon Painting used in the Dragon Adventure was originally developed for Poconos.

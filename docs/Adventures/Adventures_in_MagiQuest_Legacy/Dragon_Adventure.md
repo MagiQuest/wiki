@@ -65,7 +65,7 @@ This cycle of protection, freeze, and ice arrow, repeats twice more. Charlock be
 
 <img src="\img\Dragon_rune.webp" alt="The Rune of Dragons" width="137" hight="192" title="The Rune of Dragons"></img> The Rune of Dragons is described by Charlock as "the most powerful of all dueling runes." In Magi Duels, it summons Charlock and his fiery breath to the battlefield dealing 50 points of mana damage to the opponent. When upgraded, it does 70 damage, making it by far the strongest offensive spell.
 
-Outside of dueling, obtaining the Rune of Dragons is also a requirement for both the [Ice Dragon Adventure](docs\Home.mdx) and the [Silver Dragon Portal Adventure](docs\Home.mdx). Additionally, at the [Pigeon Forge, TN](docs\Home.mdx) location, wielding this rune permits Magi to unlock the Dragon Door. The door allows faster travel between the back of the Village Realm and Dragon Realm.
+Outside of dueling, obtaining the Rune of Dragons is also a requirement for both the [Ice Dragon Adventure](docs\Home.mdx) and the [Silver Dragon Portal Adventure](docs\Home.mdx). Additionally, at the [Pigeon Forge, TN](docs\Realm_Locations\Pigeon_Forge_TN.md) location, wielding this rune permits Magi to unlock the Dragon Door. The door allows faster travel between the back of the Village Realm and Dragon Realm.
 
 ### Strategy and Tips
 
@@ -99,7 +99,7 @@ This mechanic was optional for regular battles, but was the main task of the Col
 - [Grand Mound, WA](docs\Home.mdx)
 - Tokyo Dome, JP
 - [Concord, NC](docs\Home.mdx)
-- [Pigeon Forge, TN](docs\Home.mdx)
+- [Pigeon Forge, TN](docs\Realm_Locations\Pigeon_Forge_TN.md)
 - [Wisconsin Dells, WI](docs\Home.mdx)
 - Mall of America, MN
 - Yorktown Center, IL

@@ -24,9 +24,9 @@ Please reach out to the Wiki administrators or on the [MagiQuest Discord's](http
 
 You may also want to read the [Wiki's rules page.](docs\Wiki_Rules.md)
 
-### Quest Page Sections
+### [Quest Page Sections](https://magiquest.wiki/template_quest)
 
-The model pages for quests are the [Lightning Rune](docs\Home.mdx) and [Enchant Creature Rune](docs\Home.mdx) pages. Below is information on what belongs in each section of the page.
+The model pages for quests are the [Lightning Rune](docs\Quests\Lightning_Rune.md) and [Enchant Creature Rune](docs\Quests\Enchant_Creature_Rune.md) pages. Below is information on what belongs in each section of the page.
 
 **Introduction:** Introduce the rune and it’s power in the most basic form. Mention any clan association it may have, and what set it’s apart of.
 
@@ -40,7 +40,7 @@ The model pages for quests are the [Lightning Rune](docs\Home.mdx) and [Enchant 
 
 **References:** Sources and references used throughout the article should be put at the bottom.
 
-### Adventure Page Sections
+### [Adventure Page Sections](https://magiquest.wiki/template_adventure)
 
 The model page for adventure is the [Dragon Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Dragon_Adventure.md) page. Below is information on what belongs in each section of the page.
 
@@ -60,9 +60,9 @@ The model page for adventure is the [Dragon Adventure](docs\Adventures\Adventure
 
 **References:** It would be nice to cite some sources, you can do so at the end.
 
-### Location Page Sections
+### [Location Page Sections](https://magiquest.wiki/template_location)
 
-The model page for locations is the [Pigeon Forge, TN](docs\Home.mdx) page. Below is information on what belongs in each section of the page.
+The model page for locations is the [Pigeon Forge, TN](docs\Realm_Locations\Pigeon_Forge_TN.md) page. Below is information on what belongs in each section of the page.
 
 **Introduction:** Introduce the location by describing it’s realm type, how much content it has, any exclusive content or noteworthy packages (this includes mentioning whether its a Goblin or Ursa lodge)
 

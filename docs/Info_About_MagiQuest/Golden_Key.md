@@ -8,7 +8,7 @@ sidebar_position: 3
 slug: /golden_key
 ---
 
-The **Golden Key** is a special item that can be used to unlock secret areas of the kingdom. This item can only be used at the [Pigeon Forge, TN](docs\Home.mdx) location but was at one point an item that could be used at the Myrtle Beach, SC location as well.
+The **Golden Key** is a special item that can be used to unlock secret areas of the kingdom. This item can only be used at the [Pigeon Forge, TN](docs\Realm_Locations\Pigeon_Forge_TN.md) location but was at one point an item that could be used at the Myrtle Beach, SC location as well.
 
 <img src="\img\MQ_Key.webp" alt="MQ Key" width="217" hight="144" title="MQ Key"></img>
 

@@ -15,7 +15,7 @@ This article is a stub. You can help the MagiQuest wiki by expanding it using th
 
 :::
 
-The 'Woodsy Clan are tree-dwelling, enchanted, mystical [Magi](docs\Info_About_MagiQuest\Magi.md) and creatures who can sometimes be a little mischievous. Their rune automatically empowers you with the ability to communicate with creatures and enchant them to speak to you with the [Enchant Creatures Rune](docs\Home.mdx). Only the Pixie [Serena](docs\Home.mdx) can grant this rune to a Magi.
+The 'Woodsy Clan are tree-dwelling, enchanted, mystical [Magi](docs\Info_About_MagiQuest\Magi.md) and creatures who can sometimes be a little mischievous. Their rune automatically empowers you with the ability to communicate with creatures and enchant them to speak to you with the [Enchant Creatures Rune](docs\Quests\Enchant_Creature_Rune.md). Only the Pixie [Serena](docs\Home.mdx) can grant this rune to a Magi.
 
 <img src="\img\Woodsy_Clan.webp" alt="The icon of the Woodsy Clan" width="100" hight="100" title="The icon of the Woodsy Clan"></img>
 

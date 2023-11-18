@@ -40,6 +40,6 @@ As a magi completes quests and earns experience they will attain higher ranks wi
 
 Gold can be used to complete quests and can also be used to purchase dueling passes and other rewards at some MagiQuest locations These runes for gold are portal, protection, and distract. 
 
-### [Runes](docs\Home.mdx)
+### [Runes](docs\Info_About_MagiQuest\Runes.md)
 
 Runes are acquired by questing and adventuring. Runes are what give a magi the ability to perform spells. Runes can be used in adventures and in duels with other magi. 

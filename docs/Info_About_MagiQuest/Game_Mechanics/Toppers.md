@@ -41,7 +41,7 @@ With the power of the laughing skull, you can instantly defeat [Charlock](docs\H
 
 The Pegasus and Unicorn Horn grant the power of music, but the effect of the topper is different depending on the location.
 
-At Great Wolf Lodge locations, the power of music acts as a [chaos effect](docs\Info_About_MagiQuest\Game_Mechanics\Chaos_Powers.md). Everyone with an active wand will be given 1000 gold, and a video of the Unicorn announcing the event will play on status stations . It must be recharged by collecting the [Dazzle](docs\Home.mdx), [Heal](docs\Home.mdx), and [Enchant Creature](docs\Home.mdx) Runes.
+At Great Wolf Lodge locations, the power of music acts as a [chaos effect](docs\Info_About_MagiQuest\Game_Mechanics\Chaos_Powers.md). Everyone with an active wand will be given 1000 gold, and a video of the Unicorn announcing the event will play on status stations . It must be recharged by collecting the [Dazzle](docs\Home.mdx), [Heal](docs\Home.mdx), and [Enchant Creature](docs\Quests\Enchant_Creature_Rune.md) Runes.
 
 At locations with the Unicorn and Duel Master Adventures, these two toppers would instantly charm the Unicorn, Esmeralda, and the Old Man in the Stone. This would allow you to skip two long steps on the adventures, and cut down time spent on the [Music Rune](docs\Home.mdx). The topper power would need to be recharged by returning Glittertail's star to her. 
 
