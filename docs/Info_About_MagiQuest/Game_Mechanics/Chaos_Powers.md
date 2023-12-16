@@ -20,43 +20,43 @@ This article is a stub. You can help the MagiQuest wiki by expanding it using th
 
 #### Summon Xavier - Blue Claw Topper
 
-The most infamous of all chaos powers is the ability granted by the blue claw. Once triggered, [Xavier](docs\Home.mdx) will make his pressence known by causing every effect to echo his laughter. Status stations will also play a video of him laughing. The power to summon him again must be recharged by collecting one of each quest [rune](docs\Info_About_MagiQuest\Runes.md).
+The most infamous of all chaos powers is the ability granted by the blue claw. Once triggered, [Xavier](docs\Missing_Page.md) will make his pressence known by causing every effect to echo his laughter. Status stations will also play a video of him laughing. The power to summon him again must be recharged by collecting one of each quest [rune](docs\Info_About_MagiQuest\Runes.md).
 
 #### Power of Laughter - Trixter's Emblem Topper
 
-With the trixter's emblem topper, Magi are granted the power to summon [Neland Quivermore](docs\Home.mdx), a well known member of the trickster clan. Effects all around the realm will begin to laugh with joy. Neland will also appear on status station screens, singing and dancing. Recharging this power will cost Magi a hefty 10,000 gold.
+With the trixter's emblem topper, Magi are granted the power to summon [Neland Quivermore](docs\Missing_Page.md), a well known member of the trickster clan. Effects all around the realm will begin to laugh with joy. Neland will also appear on status station screens, singing and dancing. Recharging this power will cost Magi a hefty 10,000 gold.
 
 #### Power of Music - Pegasus and Unicorn Horn Toppers
 
-The most helpful of all chaos powers, the power of music will grant all Magi with an active wand 1,000 gold. To go along with this, effects will begin to neigh like a unicorn. Glittertail will also appear on status stations, announcing the newly gained wealth of all Magi. The power can be recharged simply by collecting the [Heal](docs\Home.mdx), [Enchant Creature](docs\Quests\Enchant_Creature_Rune.md), and [Dazzle](docs\Home.mdx) runes.
+The most helpful of all chaos powers, the power of music will grant all Magi with an active wand 1,000 gold. To go along with this, effects will begin to neigh like a unicorn. Glittertail will also appear on status stations, announcing the newly gained wealth of all Magi. The power can be recharged simply by collecting the [Heal](docs\Missing_Page.md), [Enchant Creature](docs\Quests\Enchant_Creature_Rune.md), and [Dazzle](docs\Missing_Page.md) runes.
 
 ### Chaos Power Activation
 
 The effect used to trigger chaos powers is not written in the Ancient Book of Wisdom, and the effect differs depending on the location. Below is a list of known trigger effects for each location.
 
-  - [Myrtle Beach, SC](docs\Home.mdx) - Black Hole
-  - [Poconos, PA](docs\Home.mdx) - Book of Treasures
+  - [Myrtle Beach, SC](docs\Missing_Page.md) - Black Hole
+  - [Poconos, PA](docs\Missing_Page.md) - Book of Treasures
   - Williamsburg, VA - Unknown
-  - [Traverse City, MI](docs\Home.mdx) - Laughing chest by the Quest Trees
-  - [Kansas City, KS](docs\Home.mdx) - Unknown
-  - [Mason, OH](docs\Home.mdx) - Unknown
+  - [Traverse City, MI](docs\Missing_Page.md) - Laughing chest by the Quest Trees
+  - [Kansas City, KS](docs\Missing_Page.md) - Unknown
+  - [Mason, OH](docs\Missing_Page.md) - Unknown
   - East Hanover, NJ - Unknown
-  - [Grapevine, TX](docs\Home.mdx) - Chest on the first floor
+  - [Grapevine, TX](docs\Missing_Page.md) - Chest on the first floor
   - Lagunasia, JP - Unknown
-  - [Grand Mound, WA](docs\Home.mdx) - Chest underneath stairs on the first floor
-  - [Tokyo Dome City, JP](docs\Home.mdx) - Unknown
-  - [Concord, NC](docs\Home.mdx) - Unknown
+  - [Grand Mound, WA](docs\Missing_Page.md) - Chest underneath stairs on the first floor
+  - [Tokyo Dome City, JP](docs\Missing_Page.md) - Unknown
+  - [Concord, NC](docs\Missing_Page.md) - Unknown
   - [Pigeon Forge, TN](docs\Realm_Locations\Pigeon_Forge_TN.md) - N/A (No topper powers)
-  - [Wisconsin Dells, WI](docs\Home.mdx) - Chest on the second floor
+  - [Wisconsin Dells, WI](docs\Missing_Page.md) - Chest on the second floor
   - Mall of America, MN - Unknown
   - Yorktown, IL - Unknown
   - Six Flags Great America, IL - Unknown
   - Palisades Center, NY - Unknown
-  - [Niagara Falls, ON](docs\Home.mdx) - Chest on level 3 (Floor 2) Color is light brown and next to a TV Screen.
-  - [Sandusky, OH](docs\Home.mdx) - Unknown
-  - [Downers Grove, IL](docs\Home.mdx) - Cottage window
+  - [Niagara Falls, ON](docs\Missing_Page.md) - Chest on level 3 (Floor 2) Color is light brown and next to a TV Screen.
+  - [Sandusky, OH](docs\Missing_Page.md) - Unknown
+  - [Downers Grove, IL](docs\Missing_Page.md) - Cottage window
   - Gurnee, IL - Chest by Build-A-Bear
 
 ### Trivia
 
-  - The power of music is only a chaos effect at [Great Wolf Lodge](docs\Home.mdx) locations. See the [toppers page](docs\Info_About_MagiQuest\Game_Mechanics\Toppers.md) for the original ability.
+  - The power of music is only a chaos effect at [Great Wolf Lodge](docs\Missing_Page.md) locations. See the [toppers page](docs\Info_About_MagiQuest\Game_Mechanics\Toppers.md) for the original ability.

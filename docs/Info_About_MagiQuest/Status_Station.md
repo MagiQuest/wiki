@@ -11,10 +11,10 @@ slug: /status_station
 
 Status Stations are usually associated with Characters:
 
-  - [The Lady in the Leaves](docs\Home.mdx)
-  - [The Lady in the Wall](docs\Home.mdx)
-  - [The Old Man in the Stump](docs\Home.mdx)
-  - [The Wise Old Owl](docs\Home.mdx)
+  - [The Lady in the Leaves](docs\Missing_Page.md)
+  - [The Lady in the Wall](docs\Missing_Page.md)
+  - [The Old Man in the Stump](docs\Missing_Page.md)
+  - [The Wise Old Owl](docs\Missing_Page.md)
   - The Man in the Mist
   - The Stone Gargoyle
   - The Eerie Eyeballs
@@ -24,7 +24,7 @@ But they can also be associated with other stations like:
   - Armillary Stargazer
   - The Old Man in the Stone
 
-You can also get game status from any [Quest Tree](docs\Home.mdx).
+You can also get game status from any [Quest Tree](docs\Missing_Page.md).
 
 ### MagiQuest (2.0)
 

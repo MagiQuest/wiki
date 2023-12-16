@@ -14,28 +14,28 @@ slug: /enchant_creature_rune
   <summary>Enchant Creature Rune Infobox:</summary>
   | Enchant Creature Rune |
   | --- |
-  | <img src="\img\Enchant_Creature_Rune.webp" alt="Enchant Creature Rune" width="192" hight="175" title="Enchant Creature Rune"></img> |
+  | <img src="\img\docs\one-time\Quests\Enchant_Creature_Rune\Enchant_Creature_Rune.webp" alt="Enchant Creature Rune" width="192" hight="175" title="Enchant Creature Rune"></img> |
 
   | General Information |  |
   | --- | --- |
   | Content Set | [Legacy Base Content](docs\Info_About_MagiQuest\Content_Sets\Legacy_Base_Content.md) |
-  | Quest Giver | [Quest Master](docs\Home.mdx) |
+  | Quest Giver | [Quest Master](docs\Missing_Page.md) |
   | Reward Giver | Serena the Pixie |
   | Prerequisites | None |
 
   | Rewards |  |
   | --- | --- |
   | ***Gold*** | ***XP*** |
-  | 300 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 100 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> |
+  | 300 <img src="\img\docs\multi-use\infobox-assets\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 100 <img src="\img\docs\multi-use\infobox-assets\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> |
 
   | In Other Versions |  |
   | --- | --- |
-  | [MagiQuest Chronicles](docs\Home.mdx) | [MagiQuest Plus](docs\Home.mdx) |
+  | [MagiQuest Chronicles](docs\Missing_Page.md) | [MagiQuest Plus](docs\Missing_Page.md) |
 </details>
 
 :::note
 
-This page is about the rune in MagiQuest Legacy. For other versions, see [here](docs\Home.mdx).
+This page is about the rune in MagiQuest Legacy. For other versions, see [here](docs\Missing_Page.md).
 
 :::
 
@@ -43,7 +43,7 @@ The **Enchant Creature Rune** is the second of the original twelve quest [runes]
 
 ### Obtaining
 
-Four artifacts bearing the paw-print symbol of the rune must be casted at, in any order, for this quest. Three of the symbols are found in treasure chests. The fourth is engraved onto the side of a rock. At many locations, this stone appears within a painting, but others have a physical stone prop with the emblem on it. Once a Magi has collected all four symbols, they can head to [Serena the Pixie](docs\Home.mdx) for their reward.
+Four artifacts bearing the paw-print symbol of the rune must be casted at, in any order, for this quest. Three of the symbols are found in treasure chests. The fourth is engraved onto the side of a rock. At many locations, this stone appears within a painting, but others have a physical stone prop with the emblem on it. Once a Magi has collected all four symbols, they can head to [Serena the Pixie](docs\Missing_Page.md) for their reward.
 
 ### Uses
 
@@ -58,24 +58,24 @@ In Magi dueling, this rune deals 10 points of mana damage to the opponent and bl
 
 ### Locations
 
-  - [Myrtle Beach, SC](docs\Home.mdx)
-  - [Pocono Mountains, PA](docs\Home.mdx)
+  - [Myrtle Beach, SC](docs\Missing_Page.md)
+  - [Pocono Mountains, PA](docs\Missing_Page.md)
   - Williamsburg, VA
-  - [Traverse City, MI](docs\Home.mdx)
-  - [Kansas City, KS](docs\Home.mdx)
-  - [Mason, OH](docs\Home.mdx)
+  - [Traverse City, MI](docs\Missing_Page.md)
+  - [Kansas City, KS](docs\Missing_Page.md)
+  - [Mason, OH](docs\Missing_Page.md)
   - East Hanover, NJ
-  - [Grapevine, TX](docs\Home.mdx)
+  - [Grapevine, TX](docs\Missing_Page.md)
   - Lagunasia, JP
-  - [Grand Mound, WA](docs\Home.mdx)
+  - [Grand Mound, WA](docs\Missing_Page.md)
   - Tokyo Dome, JP
-  - [Concord, NC](docs\Home.mdx)
+  - [Concord, NC](docs\Missing_Page.md)
   - [Pigeon Forge, TN](docs\Realm_Locations\Pigeon_Forge_TN.md)
-  - [Wisconsin Dells, WI](docs\Home.mdx)
+  - [Wisconsin Dells, WI](docs\Missing_Page.md)
   - Mall of America, MN
   - Yorktown Center, IL
   - Six Flags Great America, IL
   - West Nyack, NY
-  - [Niagara Falls, ON](docs\Home.mdx)
-  - [Sandusky, OH](docs\Home.mdx)
-  - [Downers Grove, IL](docs\Home.mdx)
+  - [Niagara Falls, ON](docs\Missing_Page.md)
+  - [Sandusky, OH](docs\Missing_Page.md)
+  - [Downers Grove, IL](docs\Missing_Page.md)

@@ -14,28 +14,28 @@ slug: /ursa_major_adventure
   <summary>Ursa Major Adventure Infobox:</summary>
   | Ursa Major Adventure Adventure |
   | --- |
-  | <img src="\img\Ursa_Adventure_Art.webp" alt="Ursa Major Adventure Art" width="270" hight="338" title="Ursa Major Adventure Art"></img> |
+  | <img src="\img\docs\one-time\Adventures\Adventures_in_MagiQuest_Legacy\Ursa_Major_Adventure\Ursa_Adventure_Art.webp" alt="Ursa Major Adventure Art" width="270" hight="338" title="Ursa Major Adventure Art"></img> |
 
   | General Information |  |
   | --- | --- |
   | Content Set | [Great Wolf Lodge Exclusive Content](docs\Info_About_MagiQuest\Content_Sets\Great_Wolf_Lodge_Exclusive.md) |
-  | Adventure Giver | [Princess Amora](docs\Home.mdx) |
-  | Reward Giver | [Ursa Major](docs\Home.mdx) |
-  | Prerequisites | - [Celestial Rune](docs\Home.mdx)<br></br> - [Great Wolf Rune](docs\Home.mdx) |
+  | Adventure Giver | [Princess Amora](docs\Missing_Page.md) |
+  | Reward Giver | [Ursa Major](docs\Missing_Page.md) |
+  | Prerequisites | - [Celestial Rune](docs\Missing_Page.md)<br></br> - [Great Wolf Rune](docs\Missing_Page.md) |
 
   | Rewards |  |  |
   | --- | --- | --- |
   | ***Gold*** | ***XP*** | ***Rune*** |
-  | 600 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 300 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | Ursa Major Amulet |
+  | 600 <img src="\img\docs\multi-use\infobox-assets\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 300 <img src="\img\docs\multi-use\infobox-assets\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | Ursa Major Amulet |
 </details>
 
-The **Ursa Major Adventure** follows [Magi](docs\Info_About_MagiQuest\Magi.md) in their quest to help the Great Bear, [Ursa Major](docs\Home.mdx), return to the stars before he fades from existence. He was summoned by [Princess Amora](docs\Home.mdx) to solve a problem in the forest realm, when his amulet breaks, and he loses his ability to return to the stars. The Magi is tasked with learning where the amulet's base and all five of it's gemstones hide, then retrieving them to return to Ursa. This adventure and it's associated quests are part of the [Great Wolf Lodge Exclusive Content](docs\Info_About_MagiQuest\Content_Sets\Great_Wolf_Lodge_Exclusive.md) set. 
+The **Ursa Major Adventure** follows [Magi](docs\Info_About_MagiQuest\Magi.md) in their quest to help the Great Bear, [Ursa Major](docs\Missing_Page.md), return to the stars before he fades from existence. He was summoned by [Princess Amora](docs\Missing_Page.md) to solve a problem in the forest realm, when his amulet breaks, and he loses his ability to return to the stars. The Magi is tasked with learning where the amulet's base and all five of it's gemstones hide, then retrieving them to return to Ursa. This adventure and it's associated quests are part of the [Great Wolf Lodge Exclusive Content](docs\Info_About_MagiQuest\Content_Sets\Great_Wolf_Lodge_Exclusive.md) set. 
 
 ### Walkthrough
 
 #### Requirements
 
-To accept this adventure, Magi must have collected the [Celestial Rune](docs\Home.mdx), as well as proven themselves to Amora by collecting the [Great Wolf Rune](docs\Home.mdx). 
+To accept this adventure, Magi must have collected the [Celestial Rune](docs\Missing_Page.md), as well as proven themselves to Amora by collecting the [Great Wolf Rune](docs\Missing_Page.md). 
 
 #### Locating the Amulet
 
@@ -51,15 +51,15 @@ Once the amulet and it's five gemstones are collected, a Magi should proceed to 
 
 Upon successfully restoring the power of the amulet, and by extension his powers. Ursa will thank you, before his body begins to glow and turn to stars as he returns to the skies. An outline of the Ursa Major constellation will light up and the Magi will be congratulated by his voice coming from the sky. He will reward the player with the Ursa Major Amulet for their kindness.
 
-When the Magi returns to a Quest Tree, they will be greeted once again by Princess Amora. She congratulates the player on being skilled and resourceful in saving Ursa Major. She remarks that [her grandfather](docs\Home.mdx) was right about the Magi's abilities. Amora wishes them good luck on their future travels, saying she'll see them again when their abilities are needed once more by the forest realm.
+When the Magi returns to a Quest Tree, they will be greeted once again by Princess Amora. She congratulates the player on being skilled and resourceful in saving Ursa Major. She remarks that [her grandfather](docs\Missing_Page.md) was right about the Magi's abilities. Amora wishes them good luck on their future travels, saying she'll see them again when their abilities are needed once more by the forest realm.
 
 ### Ursa Major Amulet
 
-<img src="\img\Ursa_Major_Amulet.webp" alt="The Ursa Major Amulet" width="137" hight="192" title="The Ursa Major Amulet"></img> After restoring Ursa Major's power, he gives the Magi his amulet. He describes it has having the ability to summon him back from the stars, for when the player "need help defending yourself... from dark forces..." and that the Great Bear watches and guards over them. The power of the amulet is never used in-game. 
+<img src="\img\docs\one-time\Adventures\Adventures_in_MagiQuest_Legacy\Ursa_Major_Adventure\Ursa_Major_Amulet.webp" alt="The Ursa Major Amulet" width="137" hight="192" title="The Ursa Major Amulet"></img> After restoring Ursa Major's power, he gives the Magi his amulet. He describes it has having the ability to summon him back from the stars, for when the player "need help defending yourself... from dark forces..." and that the Great Bear watches and guards over them. The power of the amulet is never used in-game. 
 
 ### Strategy and Tips
 
-- The items for this adventure are commonly placed in areas that a Magi might not expect. For example, at [Concord, NC](docs\Home.mdx), the red-shouldered hawk is found in a dark corner behind the Quest Trees, and the emerald gemstone is on the side of a staircase on the second floor.
+- The items for this adventure are commonly placed in areas that a Magi might not expect. For example, at [Concord, NC](docs\Missing_Page.md), the red-shouldered hawk is found in a dark corner behind the Quest Trees, and the emerald gemstone is on the side of a staircase on the second floor.
 
 ### Trivia
 
@@ -68,8 +68,8 @@ When the Magi returns to a Quest Tree, they will be greeted once again by Prince
 
 ### Locations
 
-- [Pocono Mountains, PA](docs\Home.mdx)
-- [Grapevine, TX](docs\Home.mdx)
-- [Grand Mound, WA](docs\Home.mdx)
-- [Concord, NC](docs\Home.mdx)
-- [Niagara Falls, ON](docs\Home.mdx)
+- [Pocono Mountains, PA](docs\Missing_Page.md)
+- [Grapevine, TX](docs\Missing_Page.md)
+- [Grand Mound, WA](docs\Missing_Page.md)
+- [Concord, NC](docs\Missing_Page.md)
+- [Niagara Falls, ON](docs\Missing_Page.md)

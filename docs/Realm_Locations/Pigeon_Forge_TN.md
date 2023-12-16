@@ -13,7 +13,7 @@ slug: /pigeon_forge
   <summary>Pigeon Forge Infobox:</summary>
   | Pigeon Forge, TN |
   | --- |
-  | <img src="\img\Pigeon_Forge.webp" alt="A picture of the Pigeon Forge MagiQuest building from the outside. You can see the sun setting in the background." width="268" hight="214.4" title="A picture of the Pigeon Forge MagiQuest building from the outside. You can see the sun setting in the background."></img> |
+  | <img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Forge.webp" alt="A picture of the Pigeon Forge MagiQuest building from the outside. You can see the sun setting in the background." width="268" hight="214.4" title="A picture of the Pigeon Forge MagiQuest building from the outside. You can see the sun setting in the background."></img> |
 
   | General Information |  |
   | --- | --- |
@@ -25,10 +25,10 @@ slug: /pigeon_forge
 
   | Location Rune |
   | --- |
-  | <img src="\img\Pigeon_Forge_Rune.webp" alt="The Pigeon Forge realm rune found on the globals page." width="268" hight="248.083" title="The Pigeon Forge realm rune found on the globals page."></img> |
+  | <img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Forge_Rune.webp" alt="The Pigeon Forge realm rune found on the globals page." width="268" hight="248.083" title="The Pigeon Forge realm rune found on the globals page."></img> |
 </details>
 
-The **Pigeon Forge, Tennessee** location is a Kingdom Realm with 14 quests and 4 [adventures](docs\Adventures\index.mdx). It is the only currently operational Kingdom Realm, as well the last MagiQuest Legacy location not within a [Great Wolf Lodge](docs\Home.mdx). Due to the closures of other Kingdom Realms, the [Ice Dragon Saga](docs\Info_About_MagiQuest\Content_Sets\Ice_Dragon_Saga.md) and [Distract Rune](docs\Home.mdx) are exclusive to this location. Pigeon Forge also previously featured dueling podiums; however, they have been down since 2020. Although the building itself is labeled as MagiQuest, the MagiQuest game only takes up the second floor. The first floor features pirate themed mini golf, a mirror maze, and an arcade.
+The **Pigeon Forge, Tennessee** location is a Kingdom Realm with 14 quests and 4 [adventures](docs\Adventures\index.mdx). It is the only currently operational Kingdom Realm, as well the last MagiQuest Legacy location not within a [Great Wolf Lodge](docs\Missing_Page.md). Due to the closures of other Kingdom Realms, the [Ice Dragon Saga](docs\Info_About_MagiQuest\Content_Sets\Ice_Dragon_Saga.md) and [Distract Rune](docs\Missing_Page.md) are exclusive to this location. Pigeon Forge also previously featured dueling podiums; however, they have been down since 2020. Although the building itself is labeled as MagiQuest, the MagiQuest game only takes up the second floor. The first floor features pirate themed mini golf, a mirror maze, and an arcade.
 
 ### MagiQuest Content
 
@@ -36,15 +36,15 @@ The **Pigeon Forge, Tennessee** location is a Kingdom Realm with 14 quests and 4
 
   - [Lightning Rune](docs\Quests\Lightning_Rune.md)
   - [Enchant Creature Rune](docs\Quests\Enchant_Creature_Rune.md)
-  - [Distract Rune](docs\Home.mdx)
-  - [Healing Rune](docs\Home.mdx)
-  - [Portal Rune](docs\Home.mdx)
-  - [Reveal Rune](docs\Home.mdx)
-  - [Rune of Freezing](docs\Home.mdx)
-  - [Dazzle Rune](docs\Home.mdx)
-  - [Rune of Protection](docs\Home.mdx)
-  - [Ice Arrow Rune](docs\Home.mdx)
-  - [Master Magi Rune](docs\Home.mdx)
+  - [Distract Rune](docs\Missing_Page.md)
+  - [Healing Rune](docs\Missing_Page.md)
+  - [Portal Rune](docs\Missing_Page.md)
+  - [Reveal Rune](docs\Missing_Page.md)
+  - [Rune of Freezing](docs\Missing_Page.md)
+  - [Dazzle Rune](docs\Missing_Page.md)
+  - [Rune of Protection](docs\Missing_Page.md)
+  - [Ice Arrow Rune](docs\Missing_Page.md)
+  - [Master Magi Rune](docs\Missing_Page.md)
 
 #### Adventures
 
@@ -54,17 +54,17 @@ The **Pigeon Forge, Tennessee** location is a Kingdom Realm with 14 quests and 4
 
 #### Master Magi Quests
 
-  - [Shield Rune](docs\Home.mdx)
-  - [Potion Rune](docs\Home.mdx)
-  - [Fire Rune](docs\Home.mdx)
+  - [Shield Rune](docs\Missing_Page.md)
+  - [Potion Rune](docs\Missing_Page.md)
+  - [Fire Rune](docs\Missing_Page.md)
 
 #### Master Magi Adventure
 
-  - [Ice Dragon Adventure](docs\Home.mdx)
+  - [Ice Dragon Adventure](docs\Missing_Page.md)
 
 #### Portal Adventure
 
-  - [Silver Dragon Portal Adventure](docs\Home.mdx)
+  - [Silver Dragon Portal Adventure](docs\Missing_Page.md)
 
 ### Game Areas
 
@@ -76,9 +76,9 @@ The Forest Realm is the largest of the three main areas. It is further split int
 
 ##### Enchanted Forest
 
-<img src="\img\Pigeon_Enchanted_Forest.webp" alt="The center of the Enchanted Forest" width="180" hight="135" title="The center of the Enchanted Forest"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Enchanted_Forest.webp" alt="The center of the Enchanted Forest" width="180" hight="135" title="The center of the Enchanted Forest"></img>
 
-The bright and mystical Enchanted Forest is the first area a Magi will visit upon entering the Forest Realm. The walls feature tall, somewhat bent trees, some with holes and a small pair of peering eyes. Large trees can also be seen dotting the path, which is outlined by rock walls with small bushes, and the occasional wooden archway. Magi will find the Pixie's Perch here, home to [Serena](docs\Home.mdx). The Lady in the Leaves, Old Man in the Stump, and Smudgy also reside here. Magi who finish a lesson in the Training Room exit into the Enchanted Forest; in fact, the exterior of the room is visible from the forest. In recent years two extra quest stones have been added to the area.
+The bright and mystical Enchanted Forest is the first area a Magi will visit upon entering the Forest Realm. The walls feature tall, somewhat bent trees, some with holes and a small pair of peering eyes. Large trees can also be seen dotting the path, which is outlined by rock walls with small bushes, and the occasional wooden archway. Magi will find the Pixie's Perch here, home to [Serena](docs\Missing_Page.md). The Lady in the Leaves, Old Man in the Stump, and Smudgy also reside here. Magi who finish a lesson in the Training Room exit into the Enchanted Forest; in fact, the exterior of the room is visible from the forest. In recent years two extra quest stones have been added to the area.
 
 This area shares similarities with the Enchanted Woods, an area found in many Forest Realms.
 
@@ -90,31 +90,31 @@ This area shares similarities with the Twisted Woods, an area found in many Fore
 
 ##### Goblin King's Chambers
 
-The Goblin King's Chambers are locked behind a large stone door, only opened through a magical key found elsewhere. Within is the throne room of the [Goblin King](docs\Home.mdx), protected by the Goblin Guard. The chambers also contain an infinite hallway, an effect achieved with two large mirrors facing each other.
+The Goblin King's Chambers are locked behind a large stone door, only opened through a magical key found elsewhere. Within is the throne room of the [Goblin King](docs\Missing_Page.md), protected by the Goblin Guard. The chambers also contain an infinite hallway, an effect achieved with two large mirrors facing each other.
 
 #### Village Realm
 
-<img src="\img\Pigeon_Village_Realm_1.webp" alt="The village realm" width="180" hight="135" title="The village realm"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Village_Realm_1.webp" alt="The village realm" width="180" hight="135" title="The village realm"></img>
 
-The Village Realm is the most unique of any at Pigeon Forge, being unlike any other themed area at a location. It features multiple small buildings that guests can enter and explore, including a book shop, armory, a warehouse, and the Majestic Inn. Each of these buildings contain magical objects used as part of quests and adventures: Princess Candice can be found within the Majestic Inn, while [The Owl](docs\Home.mdx) and the Wizard Book reside outside. The dueling podiums are in the warehouse in the back of the village. Across the path from the buildings players can explore is a set of building facades, including a robe shop and the Heroes Podium. The main path is divided by small smooth stone walls with the occasional archway. Birds can be heard chirping in the area, and are seen perching around the village. Trees similar to those in the Enchanted Forest can be seen around the edges of town. Finally, a secret stone door to the Dragon's Realm lies near the warehouse.
+The Village Realm is the most unique of any at Pigeon Forge, being unlike any other themed area at a location. It features multiple small buildings that guests can enter and explore, including a book shop, armory, a warehouse, and the Majestic Inn. Each of these buildings contain magical objects used as part of quests and adventures: Princess Candice can be found within the Majestic Inn, while [The Owl](docs\Missing_Page.md) and the Wizard Book reside outside. The dueling podiums are in the warehouse in the back of the village. Across the path from the buildings players can explore is a set of building facades, including a robe shop and the Heroes Podium. The main path is divided by small smooth stone walls with the occasional archway. Birds can be heard chirping in the area, and are seen perching around the village. Trees similar to those in the Enchanted Forest can be seen around the edges of town. Finally, a secret stone door to the Dragon's Realm lies near the warehouse.
 
 #### Dragon Realm
 
-<img src="\img\Pigeon_Dragon_Realm.webp" alt="Entering the back of the Dragon Realm" width="180" hight="135" title="Entering the back of the Dragon Realm"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Dragon_Realm.webp" alt="Entering the back of the Dragon Realm" width="180" hight="135" title="Entering the back of the Dragon Realm"></img>
 
-The Dragon Realm is a dark and imposing area, with tall stone brick walls decorated with dragon head designs and strange crystal orbs. The tight corridors of the dungeon ensure no outside light comes in. The realm is home to all three dragons in the kingdom: [Charlock](docs\Home.mdx), [Winterra](docs\Home.mdx), and [The Silver Dragon](docs\Home.mdx). Charlock and Winterra share a lair, while Silver can be encountered at the Web Portal. The Gargoyle and the Dungeon Eyes also reside within these dank halls. There is also a secret door to the Village Realm near the portal to the Dragon's Lair.
+The Dragon Realm is a dark and imposing area, with tall stone brick walls decorated with dragon head designs and strange crystal orbs. The tight corridors of the dungeon ensure no outside light comes in. The realm is home to all three dragons in the kingdom: [Charlock](docs\Missing_Page.md), [Winterra](docs\Missing_Page.md), and [The Silver Dragon](docs\Missing_Page.md). Charlock and Winterra share a lair, while Silver can be encountered at the Web Portal. The Gargoyle and the Dungeon Eyes also reside within these dank halls. There is also a secret door to the Village Realm near the portal to the Dragon's Lair.
 
 #### Other Areas
 
 ##### Stone Circle
 
-<img src="\img\Pigeon_Stone_Circle.webp" alt="The Stone Circle and Forest Realm portal" width="180" hight="135" title="The Stone Circle and Forest Realm portal"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Stone_Circle.webp" alt="The Stone Circle and Forest Realm portal" width="180" hight="135" title="The Stone Circle and Forest Realm portal"></img>
 
 The Stone Circle is the central hub of the realm of Pigeon Forge. All three of the major realms connect to it. The titular stone circle is comprised of Quest Stones, where every Magi begins a new quest or adventure. The area is on a balcony, overlooking the downstairs entrance, which the portal star hangs above. The area has a small handful of other magical items, including the key to gain access to the Goblin King's Chambers. The one character who calls the area home is the Man in the Mist, who can be found outside the entrance to the Dragon Realm. Finally, by the stairs is the wand registration desk and entrance to the Training Room.
 
 ##### Training Room
 
-The Training Room is located in a small hut near the Stone Circle by the stairs and wand registration desk. Before new players begin their journey proper, a Magi Guide (staff member) will bring them to the Training Room and do a short presentation on the basics of MagiQuest. This presentation used to include a video hosted by the [Questmaster](docs\Home.mdx). The room contains a few unique objects, and then exits into the Enchanted Forest by the crystal cluster.
+The Training Room is located in a small hut near the Stone Circle by the stairs and wand registration desk. Before new players begin their journey proper, a Magi Guide (staff member) will bring them to the Training Room and do a short presentation on the basics of MagiQuest. This presentation used to include a video hosted by the [Questmaster](docs\Missing_Page.md). The room contains a few unique objects, and then exits into the Enchanted Forest by the crystal cluster.
 
 ##### Market Place
 
@@ -124,9 +124,9 @@ The Market Place is the only area of the MagiQuest game located on the first flo
 
 #### Exclusive Content
 
-As the final Kingdom Realm, Pigeon Forge has a number of exclusive challenges for the Magi who wishes to experience everything MagiQuest has to offer. Upon becoming a Master Magi, players will receive a message from [Carren](docs\Home.mdx), unlocking the Ice Dragon Saga. The saga takes Magi on the quests to earn the Fire Rune, Shield Rune, and Potion Rune. After earning the required runes, Magi confront [Winterra](docs\Home.mdx) in the Ice Dragon Adventure.
+As the final Kingdom Realm, Pigeon Forge has a number of exclusive challenges for the Magi who wishes to experience everything MagiQuest has to offer. Upon becoming a Master Magi, players will receive a message from [Carren](docs\Missing_Page.md), unlocking the Ice Dragon Saga. The saga takes Magi on the quests to earn the Fire Rune, Shield Rune, and Potion Rune. After earning the required runes, Magi confront [Winterra](docs\Missing_Page.md) in the Ice Dragon Adventure.
 
-As part of the original set of runes, the Shadow Clan's Distract Rune is exclusive to Pigeon Forge. Additionally, the [Portal Rune](docs\Home.mdx) quest uses it's extended version that was debuted at Kingdom Realms starting in 2008.
+As part of the original set of runes, the Shadow Clan's Distract Rune is exclusive to Pigeon Forge. Additionally, the [Portal Rune](docs\Missing_Page.md) quest uses it's extended version that was debuted at Kingdom Realms starting in 2008.
 
 #### Secret Doors
 
@@ -165,19 +165,19 @@ See [Pigeon Forge, TN/ABOW](docs\Realm_Locations\Pigeon_Forge_TN_ABOW.md)
 
 ### Gallery
 
-<img src="\img\Pigeon_Pixie_Perch.webp" alt="Pixie's Perch" width="185" hight="139" title="Pixie's Perch"></img>
-<img src="\img\Pigeon_Wand_Desk.webp" alt="Wand registration desk and stone circle" width="185" hight="139" title="Wand registration desk and stone circle"></img>
-<img src="\img\Pigeon_Dark_Forest.webp" alt="Dark Forest" width="185" hight="139" title="Dark Forest"></img>
-<img src="\img\Pigeon_Goblin_Chambers.webp" alt="Goblin King's Chambers" width="185" hight="139" title="Goblin King's Chambers"></img>
-<img src="\img\Pigeon_Portals.webp" alt="Portals to other realms near the stone circle" width="185" hight="139" title="Portals to other realms near the stone circle"></img>
-<img src="\img\Pigeon_Village_Realm_2.webp" alt="Village Realm" width="185" hight="139" title="Village Realm"></img>
-<img src="\img\Pigeon_Princess.webp" alt="Princess Candice's room in the Majestic Inn" width="185" hight="139" title="Princess Candice's room in the Majestic Inn"></img>
-<img src="\img\Pigeon_Armory.webp" alt="The suit of armor and dragon painting in the armory" width="185" hight="139" title="The suit of armor and dragon painting in the armory"></img>
-<img src="\img\Pigeon_Heroes_Podium.webp" alt="Heroes Podium" width="185" hight="139" title="Heroes Podium"></img>
-<img src="\img\Pigeon_Warehouse.webp" alt="Warehouse" width="185" hight="139" title="Warehouse"></img>
-<img src="\img\Pigeon_Dueling.webp" alt="Inactive dueling podiums in the warehouse" width="185" hight="139" title="Inactive dueling podiums in the warehouse"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Pixie_Perch.webp" alt="Pixie's Perch" width="185" hight="139" title="Pixie's Perch"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Wand_Desk.webp" alt="Wand registration desk and stone circle" width="185" hight="139" title="Wand registration desk and stone circle"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Dark_Forest.webp" alt="Dark Forest" width="185" hight="139" title="Dark Forest"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Goblin_Chambers.webp" alt="Goblin King's Chambers" width="185" hight="139" title="Goblin King's Chambers"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Portals.webp" alt="Portals to other realms near the stone circle" width="185" hight="139" title="Portals to other realms near the stone circle"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Village_Realm_2.webp" alt="Village Realm" width="185" hight="139" title="Village Realm"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Princess.webp" alt="Princess Candice's room in the Majestic Inn" width="185" hight="139" title="Princess Candice's room in the Majestic Inn"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Armory.webp" alt="The suit of armor and dragon painting in the armory" width="185" hight="139" title="The suit of armor and dragon painting in the armory"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Heroes_Podium.webp" alt="Heroes Podium" width="185" hight="139" title="Heroes Podium"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Warehouse.webp" alt="Warehouse" width="185" hight="139" title="Warehouse"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Dueling.webp" alt="Inactive dueling podiums in the warehouse" width="185" hight="139" title="Inactive dueling podiums in the warehouse"></img>
 <iframe width="185" height="139" src="https://www.youtube-nocookie.com/embed/XQFH1wUEkEY?si=iI0XF-_-NNUNwdVb" title="Video Tour from April 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<img src="\img\Pigeon_Charlock_Dragon.webp" alt="Dragon's Lair" width="185" hight="139" title="Dragon's Lair"></img>
+<img src="\img\docs\one-time\Realm_Locations\Pigeon_Forge_TN\Pigeon_Charlock_Dragon.webp" alt="Dragon's Lair" width="185" hight="139" title="Dragon's Lair"></img>
 
 ### References
 

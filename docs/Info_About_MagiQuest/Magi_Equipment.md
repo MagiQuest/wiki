@@ -9,7 +9,7 @@ slug: /magi_equipment
 
 Here is some information on the various Magi Equipment that are used when playing MagiQuest or any of it's side games. For more information regarding each item, visit their respective pages.
 
-<img src="\img\MQ_Equipment.webp" alt="MQ Equipment" width="264" hight="196" title="MQ Equipment"></img>
+<img src="\img\docs\one-time\Info_About_MagiQuest\Magi_Equipment\MQ_Equipment.webp" alt="MQ Equipment" width="264" hight="196" title="MQ Equipment"></img>
 
 ### [Wands](docs\Info_About_MagiQuest\Game_Mechanics\Wands.md)
 

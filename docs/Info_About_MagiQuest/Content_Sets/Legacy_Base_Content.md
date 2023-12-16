@@ -14,4 +14,4 @@ You can find all Legacy Base Content [here](https://magiquest.wiki/tags/legacy-b
 
 :::
 
-This content set is for quests and adventures that debuted at the original MagiQuest Legacy location, [Myrtle Beach, SC](docs\Home.mdx), in 2005 on opening day. 
+This content set is for quests and adventures that debuted at the original MagiQuest Legacy location, [Myrtle Beach, SC](docs\Missing_Page.md), in 2005 on opening day. 

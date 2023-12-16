@@ -11,7 +11,7 @@ A **Magi** is the name used to describe the player whenever they play [MagiQuest
 
 <iframe width="245" height="137" src="https://www.youtube-nocookie.com/embed/dif3wpTxwe0?si=YFosm8zo3ACcn79u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<img src="\img\Magiquest1.webp" alt="A group of Magi casting their wands" width="180" hight="120" title="A group of Magi casting their wands"></img>
+<img src="\img\docs\one-time\Info_About_MagiQuest\Magi\Magiquest1.webp" alt="A group of Magi casting their wands" width="180" hight="120" title="A group of Magi casting their wands"></img>
 
 ### Magi Name
 
@@ -32,9 +32,6 @@ As a magi completes quests and earns experience they will attain higher ranks wi
   - Magi
   - Senior Magi
   - Master Magi
-  - Super Magi
-  - Ultimate Magi
-  - Grandmaster Magi
 
 ### Gold
 

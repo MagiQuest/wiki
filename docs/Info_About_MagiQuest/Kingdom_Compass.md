@@ -12,4 +12,4 @@ A **Compass** is an item that is used whenever playing [Compass Quest](docs\Info
 
 The compass previously was used to call Magi to the Stone circle, typically as a tool for parents to get regrouped with their kids.
 
-<img src="\img\MQ_Compass.webp" alt="MQ Compass" width="180" hight="120" title="MQ Compass"></img>
+<img src="\img\docs\one-time\Info_About_MagiQuest\Kingdom_Compass\MQ_Compass.webp" alt="MQ Compass" width="180" hight="120" title="MQ Compass"></img>

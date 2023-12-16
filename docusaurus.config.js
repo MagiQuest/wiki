@@ -2,15 +2,15 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MQ Wiki',
-  tagline: 'MQ Fandom Wiki Mirror',
-  favicon: 'img/favicon.ico',
+  title: 'MagiQuest Wiki',
+  tagline: 'MagiQuest Fandom Wiki Mirror',
+  favicon: 'img/site-assets/favicon.ico',
 
   url: 'https://magiquest.wiki',
   baseUrl: '/',
 
   organizationName: 'magiquest',
-  projectName: 'wiki-mirror',
+  projectName: 'wiki',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -30,7 +30,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/MagiQuest/wiki-mirror/edit/main/',
+            'https://github.com/MagiQuest/wiki/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +49,7 @@ const config = {
         title: 'MQ Wiki',
         logo: {
           alt: 'MQ Wiki Logo',
-          src: 'img/MQ.png',
+          src: 'img/site-assets/MQ.png',
         },
         items: [
           {
@@ -59,7 +59,7 @@ const config = {
             label: 'Wiki',
           },
           {
-            href: 'https://github.com/magiquest/wiki-mirror',
+            href: 'https://github.com/magiquest/wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,22 +89,26 @@ const config = {
                 href: 'https://www.reddit.com/r/MagiQuest',
               },
               {
-                label: 'Wiki',
+                label: 'Fandom',
                 href: 'https://magiquest.fandom.com',
               },
             ],
           },
           {
-            title: 'MQ-VR',
+            title: 'magiquest.wiki',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/magiquest',
               },
+              {
+                label: 'BlueSky',
+                href: 'https://bsky.app/profile/magiquest.wiki',
+              },
             ],
           },
         ],
-        copyright: `Community content is available under CC-BY-SA unless otherwise noted. Site owned by MQ-VR. Built with Docusaurus.`,
+        copyright: `Community content is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> unless otherwise noted. Built with <a href="https://docusaurus.io">Docusaurus</a>.`,
       },
       prism: {
         theme: prismThemes.github,

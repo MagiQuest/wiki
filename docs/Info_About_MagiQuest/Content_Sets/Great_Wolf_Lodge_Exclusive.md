@@ -14,16 +14,16 @@ You can find all Great Wolf Lodge Exclusive Content [here](https://magiquest.wik
 
 :::
 
-In 2006, Creative Kingdoms partnered with Great Wolf Resorts to bring [MagiQuest](docs\Info_About_MagiQuest\index.mdx) to the [Pocono Mountains, PA](docs\Home.mdx) [Great Wolf Lodge](docs\Home.mdx). As the partnership continued and MagiQuest was brought to every lodge, exclusive game content was made for the locations. Existing quests were also changed to remove steps deemed unnecessary.
+In 2006, Creative Kingdoms partnered with Great Wolf Resorts to bring [MagiQuest](docs\Info_About_MagiQuest\index.mdx) to the [Pocono Mountains, PA](docs\Missing_Page.md) [Great Wolf Lodge](docs\Missing_Page.md). As the partnership continued and MagiQuest was brought to every lodge, exclusive game content was made for the locations. Existing quests were also changed to remove steps deemed unnecessary.
 
 ### Exclusive Quests and Adventures
 
 #### Ursa Major Content
 
-In 2008, the [Pocono Mountains, PA](docs\Home.mdx) and [Grapevine, TX](docs\Home.mdx) locations were the first to receive a new set of quests and adventures. They introduce new gameplay mechanics to lodge locations, as well as new characters Princess Amora and Ursa Major. The quests were designed with a forest aesthetic in mind to compliment Great Wolf Lodge's brand. Magi are able to harness the power of the stars and help a living constellation. These quests and adventure take the place of the [Lightning Rune](docs\Quests\Lightning_Rune.md) and [Princess & Goblin King Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Princess_&_Goblin_King_Adventure.md).
+In 2008, the [Pocono Mountains, PA](docs\Missing_Page.md) and [Grapevine, TX](docs\Missing_Page.md) locations were the first to receive a new set of quests and adventures. They introduce new gameplay mechanics to lodge locations, as well as new characters Princess Amora and Ursa Major. The quests were designed with a forest aesthetic in mind to compliment Great Wolf Lodge's brand. Magi are able to harness the power of the stars and help a living constellation. These quests and adventure take the place of the [Lightning Rune](docs\Quests\Lightning_Rune.md) and [Princess & Goblin King Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Princess_&_Goblin_King_Adventure.md).
 
-  - [Celestial Rune](docs\Home.mdx)
-  - [Great Wolf Rune](docs\Home.mdx)
+  - [Celestial Rune](docs\Missing_Page.md)
+  - [Great Wolf Rune](docs\Missing_Page.md)
   - [Ursa Major Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Ursa_Major_Adventure.md)
 
 #### CompassQuest Additions
@@ -38,7 +38,7 @@ When CompassQuest was brought over from Myrtle Beach, SC to Great Wolf Lodge, it
   - Enchanted Woods Rune
   - Forgotten Hall Rune
   - Tangled Woods Rune
-  - [Master Cartographer Rune](docs\Home.mdx)
+  - [Master Cartographer Rune](docs\Missing_Page.md)
 
 #### Quest Master's Suite
 
@@ -52,9 +52,9 @@ At a small number of lodges for a short period of time, a MagiQuest themed room 
 
 ### Other Elements Developed for Great Wolf Lodge
 
-  - For MagiQuest installations before 2008 (besides Myrtle Beach), the Gargoyle gives out the [Lightning Rune](docs\Quests\Lightning_Rune.md) instead of the Man in the Mist or the [Duel Master](docs\Home.mdx). The first location that received this change was Pocono Mountains, PA.
+  - For MagiQuest installations before 2008 (besides Myrtle Beach), the Gargoyle gives out the [Lightning Rune](docs\Quests\Lightning_Rune.md) instead of the Man in the Mist or the [Duel Master](docs\Missing_Page.md). The first location that received this change was Pocono Mountains, PA.
   - Smudgy, the creature in the cage from the Pixie Adventure, was changed from a strange creature to an otter.
-  - The [Reveal Rune](docs\Home.mdx) was removed as a requirement for the Pixie Adventure and [Dragon Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Dragon_Adventure.md) for lodges, as well as the Distraction Rune from the Princess & Goblin King Adventure. These runes are not present at any lodges with [one exception](docs\Home.mdx).
+  - The [Reveal Rune](docs\Missing_Page.md) was removed as a requirement for the Pixie Adventure and [Dragon Adventure](docs\Adventures\Adventures_in_MagiQuest_Legacy\Dragon_Adventure.md) for lodges, as well as the Distraction Rune from the Princess & Goblin King Adventure. These runes are not present at any lodges with [one exception](docs\Missing_Page.md).
   - The Dragon Painting used in the Dragon Adventure was originally developed for Poconos.
   - The cauldron step was removed from the Ice Arrow Rune quest, with videos adjusted accordingly.
   - The three adventures that were chosen to be featured at lodges all received new edits of their intro videos.
