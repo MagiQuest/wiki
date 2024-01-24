@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmagiquest_wiki=self.webpackChunkmagiquest_wiki||[]).push([[1713],{3457:e=>{e.exports=JSON.parse('[{"label":"Blog","permalink":"/blog/tags/blog","count":1}]')}}]);
