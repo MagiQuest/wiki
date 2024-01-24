@@ -58,6 +58,7 @@ const config = {
             position: 'left',
             label: 'Wiki',
           },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/magiquest/wiki',
             label: 'GitHub',
@@ -74,6 +75,10 @@ const config = {
               {
                 label: 'Wiki',
                 to: '/',
+              },
+              {
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
@@ -108,7 +113,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Community content is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> unless otherwise noted. Built with <a href="https://docusaurus.io">Docusaurus</a>.<br><a href="https://github.com/MagiQuest/wiki/commits/main/">magiquest.wiki v0.5.2</a>`,
+        copyright: `Community content is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> unless otherwise noted. Built with <a href="https://docusaurus.io">Docusaurus</a>.<br><a href="https://github.com/MagiQuest/wiki/commits/main/">magiquest.wiki v0.5.3</a>`,
       },
       prism: {
         theme: prismThemes.github,
