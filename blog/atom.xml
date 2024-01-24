@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magiquest.wiki/blog</id>
     <title>MagiQuest Wiki Blog</title>
-    <updated>2023-01-24T00:00:00.000Z</updated>
+    <updated>2024-01-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magiquest.wiki/blog"/>
     <subtitle>MagiQuest Wiki Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Welcome!👋]]></title>
         <id>https://magiquest.wiki/blog/welcome</id>
         <link href="https://magiquest.wiki/blog/welcome"/>
-        <updated>2023-01-24T00:00:00.000Z</updated>
+        <updated>2024-01-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello, and welcome to magiquest.wiki! Even though the site's on version 0.5.3, there haven't been any blog posts. Time to change that! This welcome post will provide a description of the project and what you can do to help out. A roadmap will be published in the near future with v0.6.0.]]></summary>
         <content type="html"><![CDATA[<p>Hello, and welcome to <a href="https://magiquest.wiki/" target="_blank" rel="noopener noreferrer">magiquest.wiki</a>! Even though the site's on version 0.5.3, there haven't been any blog posts. Time to change that! This welcome post will provide a description of the project and what <em>you</em> can do to help out. A roadmap will be published in the near future with v0.6.0.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://magiquest.wiki/blog/welcome#description" class="hash-link" aria-label="Direct link to Description" title="Direct link to Description">​</a></h2>
