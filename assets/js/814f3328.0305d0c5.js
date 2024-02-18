@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdukedot_dev=self.webpackChunkdukedot_dev||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome!\ud83d\udc4b","permalink":"/blog/welcome","unlisted":false}]}')}}]);
