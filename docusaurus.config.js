@@ -2,15 +2,15 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'dukedotdev',
-  tagline: 'My silly corner of the interwebs',
+  title: 'MagiQuest Wiki',
+  tagline: 'MagiQuest Fandom Wiki Mirror',
   favicon: 'img/site-assets/favicon.ico',
 
-  url: 'https://dukedot.dev',
+  url: 'https://magiquest.wiki',
   baseUrl: '/',
 
-  organizationName: 'dukedotdev',
-  projectName: 'dukedot.dev',
+  organizationName: 'magiquest',
+  projectName: 'wiki',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -30,7 +30,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/dukedotdev/dukedot.dev/edit/main/',
+            'https://github.com/MagiQuest/wiki/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -46,15 +46,21 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'dukedotdev',
+        title: 'MQ Wiki',
         logo: {
-          alt: 'dukedotdev',
-          src: 'img/site-assets/logo.png',
+          alt: 'MQ Wiki Logo',
+          src: 'img/site-assets/MQ.png',
         },
         items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Wiki',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/dukedotdev/dukedot.dev',
+            href: 'https://github.com/magiquest/wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -64,10 +70,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'This Site',
+            title: 'Our Site',
             items: [
               {
-                label: 'Info',
+                label: 'Wiki',
                 to: '/',
               },
               {
@@ -77,41 +83,37 @@ const config = {
             ],
           },
           {
-            title: 'Socials',
+            title: 'Community',
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/npsnnd5JwT',
+                href: 'https://discord.com/invite/6e4whagCph',
               },
               {
-                label: 'Steam',
-                href: 'https://steamcommunity.com/id/dukedotdev/',
+                label: 'Reddit',
+                href: 'https://www.reddit.com/r/MagiQuest',
               },
               {
-                label: 'Rec Room',
-                href: 'https://rec.net/user/dukedotdev',
-              },
-              {
-                label: 'Bluesky',
-                href: 'https://bsky.app/profile/dukedot.dev',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/dukedotdev',
+                label: 'Fandom',
+                href: 'https://magiquest.fandom.com',
               },
             ],
           },
           {
-            title: 'Other Projects',
+            title: 'magiquest.wiki',
             items: [
               {
-                label: 'magiquest.wiki',
-                href: 'https://magiquest.wiki'
+                label: 'GitHub',
+                href: 'https://github.com/magiquest',
+              },
+              {
+                label: 'BlueSky',
+                href: 'https://bsky.app/profile/magiquest.wiki',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} dukedotdev. Built with <a href="https://docusaurus.io">Docusaurus</a>.<br><a href="https://github.com/dukedotdev/dukedot.dev/commits/main/">dukedot.dev v0.1.0</a>`,
+        copyright: `Community content is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> unless otherwise noted. Built with <a href="https://docusaurus.io">Docusaurus</a>.<br><a href="https://github.com/MagiQuest/wiki/commits/main/">magiquest.wiki v0.5.3</a>`,
       },
       prism: {
         theme: prismThemes.github,
