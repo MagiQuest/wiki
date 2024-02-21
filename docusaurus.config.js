@@ -113,7 +113,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Community content is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> unless otherwise noted. Built with <a href="https://docusaurus.io">Docusaurus</a>.<br><a href="https://github.com/MagiQuest/wiki/commits/main/">magiquest.wiki v0.6.1 + 72</a>`,
+        copyright: `Community content is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> unless otherwise noted. Built with <a href="https://docusaurus.io">Docusaurus</a>.<br><a href="https://github.com/MagiQuest/wiki/commits/main/">magiquest.wiki v0.6.1 + 73</a>`,
       },
       prism: {
         theme: prismThemes.github,
@@ -129,12 +129,12 @@ export default {
     [
       '@docusaurus/plugin-pwa',
       {
-        debug: true,
         offlineModeActivationStrategies: [
           'appInstalled',
           'standalone',
           'queryString',
         ],
+        swRegister: true,
         pwaHead: [
           {
             tagName: 'link',
