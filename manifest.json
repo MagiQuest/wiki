@@ -1,1 +1,33 @@
-{"theme_color":"#95ff00","background_color":"#424242","icons":[{"purpose":"maskable","sizes":"512x512","src":"img/site-assets/icon512_maskable.png","type":"image/png"},{"purpose":"any","sizes":"512x512","src":"img/site-assets/icon512_rounded.png","type":"image/png"}],"orientation":"any","display":"standalone","dir":"auto","lang":"en-US","name":"MagiQuest Wiki","short_name":"MQ Wiki","start_url":"https://magiquest.wiki/","scope":"https://magiquest.wiki/manifest.json","description":"A standalone wiki mirror of magiquest.fandom.com!"}
+{
+    "name":"MagiQuest Wiki",
+    "short_name":"MQ Wiki",
+    "description":"A standalone wiki mirror of magiquest.fandom.com!",
+    "lang":"en-US",
+    "theme_color":"#95ff00",
+    "background_color":"#424242",
+    "display":"standalone",
+    "orientation":"any",
+    "scope":"./",
+    "dir":"auto",
+    "start_url":"https://magiquest.wiki/",
+    "related_applications": [
+        {
+          "platform": "webapp",
+          "url": "https://magiquest.wiki/manifest.json"
+        }
+      ],
+    "icons": [
+        {
+          "purpose":"maskable",
+          "sizes":"512x512",
+          "src":"img/site-assets/icon512_maskable.png",
+          "type":"image/png"
+        },
+        {
+          "purpose":"any",
+          "sizes":"512x512",
+          "src":"img/site-assets/icon512_rounded.png",
+          "type":"image/png"
+        }
+    ]
+}
