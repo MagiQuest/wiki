@@ -1,0 +1,22 @@
+{
+    "name": "MagiQuest Wiki",
+    "short_name": "MQ Wiki",
+    "theme_color": "#95ff00",
+    "background_color": "#424242",
+    "display": "standalone",
+    "scope": "./",
+    "start_url": "./index.html",
+    "related_applications": [
+      {
+        "platform": "webapp",
+        "url": "https://magiquest.wiki/manifest.json"
+      }
+    ],
+    "icons": [
+      {
+        "src": "img/site-assets/MQ.png",
+        "sizes": "746x566",
+        "type": "image/png"
+      }
+    ]
+  }
