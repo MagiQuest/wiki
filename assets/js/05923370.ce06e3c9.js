@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmagiquest_wiki=self.webpackChunkmagiquest_wiki||[]).push([[6955],{7866:e=>{e.exports=JSON.parse('{"label":"User blog:AcidPureWarrior","permalink":"/blog/tags/user-blog-acid-pure-warrior","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
