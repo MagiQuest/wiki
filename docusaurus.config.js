@@ -155,4 +155,31 @@ export default {
       },
     ],
   ],
+  themeConfig: {
+    metadata: [
+      {name: 'keywords', content: 'magiquest, magi quest, magic quest, mq, wiki, info, archive'},
+    ],
+    headTags: [
+      {
+        tagName: 'link',
+        attributes: {
+          rel: 'preconnect',
+          href: 'https://magiquest.wiki',
+        },
+      },
+      {
+        tagName: 'script',
+        attributes: {
+          type: 'application/ld+json',
+        },
+        innerHTML: JSON.stringify({
+          '@context': 'https://schema.org/',
+          '@type': 'Organization',
+          name: 'MagiQuest Wiki',
+          url: 'https://github.com/MagiQuest/',
+          logo: 'https://github.com/MagiQuest.png/',
+        }),
+      },
+    ],
+  },
 };
