@@ -6,4 +6,4 @@
 
 ## Repo Setup
 
-Commits are only pushed to ["main" branch](https://github.com/MagiQuest/wiki/tree/main) when a new "version" is available. Commits pushed to main are then ran through a workflow to see if they build properly, and if they pass are then pushed to the ["gh-pages" branch](https://github.com/MagiQuest/wiki/tree/gh-pages). This is where the site is built and made live.
+Commits are only pushed to [main branch](https://github.com/MagiQuest/wiki/tree/main) when a new "version" is available. Commits pushed to main are then ran through a workflow to see if they build properly, and if they pass are then pushed to the [gh-pages branch](https://github.com/MagiQuest/wiki/tree/gh-pages). This is where the site is built and made live.
