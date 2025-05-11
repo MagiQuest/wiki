@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmagiquest_wiki=self.webpackChunkmagiquest_wiki||[]).push([[4033],{3180:e=>{e.exports=JSON.parse('{"label":"User blog:Paige EM","permalink":"/blog/tags/user-blog-paige-em","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmagiquest_wiki=self.webpackChunkmagiquest_wiki||[]).push([[8177],{5339:a=>{a.exports=JSON.parse('{"tag":{"label":"Character","permalink":"/tags/character","allTagsPath":"/tags","count":1,"items":[{"id":"Info_About_MagiQuest/Characters/characters","title":"Characters","description":"","permalink":"/characters"}],"unlisted":false}}')}}]);

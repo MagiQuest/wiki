@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmagiquest_wiki=self.webpackChunkmagiquest_wiki||[]).push([[2225],{5930:t=>{t.exports=JSON.parse('{"label":"Getting started","permalink":"/blog/tags/getting-started","allTagsPath":"/blog/tags","count":2,"unlisted":true}')}}]);

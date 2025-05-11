@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmagiquest_wiki=self.webpackChunkmagiquest_wiki||[]).push([[8656],{6934:a=>{a.exports=JSON.parse('{"label":"User blog:Grannitangle","permalink":"/blog/tags/user-blog-grannitangle","allTagsPath":"/blog/tags","count":5,"unlisted":false}')}}]);
