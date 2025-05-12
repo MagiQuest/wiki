@@ -1,13 +1,13 @@
 ---
-id: dragonadventure
+id: dragon_adventure
 title: Dragon Adventure
-description: change this to something else later
+description: The Dragon Adventure is focused on the player defeating the dragon Charlock, taking back all the trasure, and forcing him to leave the Kingdom alone.
 tags:
   - Adventures
   - Legacy
   - Legacy Base Content
 sidebar_position: 1
-slug: /adventures/legacy/dragonadventure
+slug: /adventures/legacy/dragon_adventure
 ---
 
 <details>
@@ -39,7 +39,7 @@ This page is about the adventure in MagiQuest Legacy. For other versions, see [h
 
 :::
 
-The Dragon Adventure aka the Red Dragon adventure or Fire Dragon Adventure  is focused on the player defeating the wicked dragon Charlock who is wreaking havoc across the Kingdom, and stealing the people's valuables. The Quest Master tasks you with entering the dragon's lair battling him, taking back all the trasure, and forcing Charlock to leave the Kingdom alone. The Adventure has a much more challenging version referred to as the Heroic Dragon Adventure.
+The Dragon Adventure, a.k.a. the Red Dragon Adventure or Fire Dragon Adventure, is focused on the player defeating the wicked dragon Charlock who is wreaking havoc across the Kingdom and stealing the people's valuables. The Quest Master tasks you with entering the dragon's lair battling him, taking back all the trasure, and forcing Charlock to leave the Kingdom alone. This Adventure has a much more challenging version referred to as the Heroic Dragon Adventure.
 
 ## Walkthrough
 
