@@ -47,6 +47,14 @@ const config = {
   ],
 
   themeConfig: {
+    announcementBar: {
+      id: 'refactoring',
+      content:
+        'We are currently remaking our wiki, please use <a href="https://magiquest.fandom.com">magiquest.fandom.com</a> for now!',
+      backgroundColor: '#091E42',
+      textColor: '#fafbfc',
+      isCloseable: false,
+    },
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     navbar: {
       title: 'MQ Wiki',
@@ -116,7 +124,7 @@ const config = {
           ],
         },
       ],
-      copyright: `Community content is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> unless otherwise noted. Built with <a href="https://docusaurus.io">Docusaurus</a>.<br><a href="https://github.com/MagiQuest/wiki/commits/main/">magiquest.wiki v0.6.2</a>`,
+      copyright: `Community content is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> unless otherwise noted. Built with <a href="https://docusaurus.io">Docusaurus</a>.<br><a href="https://github.com/MagiQuest/wiki/commits/main/">magiquest.wiki v0.6.3</a>`,
     },
     prism: {
       theme: prismThemes.github,
