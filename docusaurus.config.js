@@ -131,76 +131,8 @@ const config = {
       config: {
         // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
       }
-    }
-  },
-}
-
-module.exports = config;
-
-export default {
-  plugins: [
-    [
-      '@docusaurus/plugin-pwa',
-      {
-        offlineModeActivationStrategies: [
-          'appInstalled',
-          'standalone',
-          'queryString',
-        ],
-        swRegister: true,
-        pwaHead: [
-          {
-            tagName: 'link',
-            rel: 'icon',
-            href: '/img/site-assets/MQ.png',
-          },
-          {
-            tagName: 'link',
-            rel: 'manifest',
-            href: '/manifest.json',
-          },
-          {
-            tagName: 'meta',
-            name: 'theme-color',
-            content: 'rgb(149, 255, 0)',
-          },
-          {
-            tagName: 'meta',
-            name: 'apple-mobile-web-app-capable',
-            content: 'yes',
-          },
-          {
-            tagName: 'meta',
-            name: 'apple-mobile-web-app-status-bar-style',
-            content: '#000',
-          },
-          {
-            tagName: 'link',
-            rel: 'apple-touch-icon',
-            href: '/img/site-assets/icon512_rounded.png',
-          },
-          {
-            tagName: 'link',
-            rel: 'mask-icon',
-            href: 'img/site-assets/icon512_maskable.png',
-            color: 'rgb(62, 204, 94)',
-          },
-          {
-            tagName: 'meta',
-            name: 'msapplication-TileImage',
-            content: 'img/site-assets/icon512_maskable.png',
-          },
-          {
-            tagName: 'meta',
-            name: 'msapplication-TileColor',
-            content: '#000',
-          },
-        ],
-      },
-    ],
-  ],
-  themeConfig: {
-    metadata: [
+    },
+      metadata: [
       {name: 'keywords', content: 'magiquest, magi quest, magic quest, mq, wiki, info, archive'},
     ],
     headTags: [
@@ -226,4 +158,6 @@ export default {
       },
     ],
   },
-};
+}
+
+module.exports = config;
