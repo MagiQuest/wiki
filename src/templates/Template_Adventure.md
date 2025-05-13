@@ -21,12 +21,12 @@ slug: /template_adventure
   | Content Set | Wiki Template Pages |
   | Adventure Giver | Character |
   | Reward Giver | Character |
-  | Prerequisites | - [Basic Markdown Knowledge](https://commonmark.org/help/) <br></br> - [Some Docusaurus Knowledge](https://docusaurus.io/docs) |
+  | Prerequisites | - [Placeholder Rune](/docs/runes/ReplaceMe) <br></br> - [Placeholder Rune](/docs/runes/ReplaceMe) |
 
   | Rewards |  |  |
   | --- | --- | --- |
   | ***Gold*** | ***XP*** | ***Rune*** |
-  | 0 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 0 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | Template Rune |
+  | 0 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 0 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | [Template Rune](/docs/runes/ReplaceMe) |
 
   | In Other Versions |  |
   | --- | --- |

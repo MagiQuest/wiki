@@ -21,7 +21,7 @@ slug: /template_rune
   | Content Set | Wiki Template Pages |
   | Quest Giver | Character |
   | Reward Giver | Character |
-  | Prerequisites | - [Basic Markdown Knowledge](https://commonmark.org/help/) <br></br> - [Some Docusaurus Knowledge](https://docusaurus.io/docs) |
+  | Prerequisites | - [Placeholder Rune](/docs/runes/ReplaceMe) <br></br> - [Placeholder Rune](/docs/runes/ReplaceMe) |
 
   | Rewards |  |
   | --- | --- |
