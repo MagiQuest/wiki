@@ -48,6 +48,11 @@ const config = {
 
   themeConfig: {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    docs: {
+      sidebar: {
+        hideable: true,
+      },
+    },
     navbar: {
       title: 'MQ Wiki',
       logo: {
@@ -110,7 +115,7 @@ const config = {
               href: 'https://github.com/magiquest',
             },
             {
-              label: 'BlueSky',
+              label: 'Bluesky',
               href: 'https://bsky.app/profile/magiquest.wiki',
             },
           ],
