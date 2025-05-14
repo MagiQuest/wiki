@@ -26,7 +26,7 @@ slug: /adventures/legacy/dragon_adventure
   | Rewards |  |  |
   | --- | --- | --- |
   | ***Gold*** | ***XP*** | ***Rune*** |
-  | 2500 <img src="/img/docs/multi-use/infobox-assets/gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 500 <img src="/img/docs/multi-use/infobox-assets/xp.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | [Rune of Dragons](https://example.com) |
+  | 2500 <img src="/img/docs/multi-use/infobox-assets/gold.png" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 500 <img src="/img/docs/multi-use/infobox-assets/xp.png" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | [Rune of Dragons](https://example.com) |
 
   | In Other Versions |  |
   | --- | --- |

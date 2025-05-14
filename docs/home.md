@@ -14,8 +14,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <ThemedImage
   alt="MagiQuest Wiki Banner"
   sources={{
-    light: useBaseUrl('img/docs/one-time/home/site-background-light.webp'),
-    dark: useBaseUrl('img/docs/one-time/home/site-background-dark.webp'),
+    light: useBaseUrl('img/docs/one-time/home/site-background-light.png'),
+    dark: useBaseUrl('img/docs/one-time/home/site-background-dark.png'),
   }}
 />
 
