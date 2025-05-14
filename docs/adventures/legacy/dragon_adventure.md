@@ -21,21 +21,21 @@ slug: /adventures/legacy/dragon_adventure
   | Content Set | Legacy Base Content |
   | Adventure Giver | Quest Master |
   | Reward Giver | Charlock |
-  | Prerequisites | - [Rune of Freezing](https://commonmark.org/help/) <br></br> - [Rune of Protection](https://docusaurus.io/docs) <br></br> - [Portal Rune](https://docusaurus.io/docs) <br></br> - [Rune of Protection](https://docusaurus.io/docs) <br></br> - [Reveal Rune (Myrtle Beach, SC and Tokyo Dome, JP)](https://docusaurus.io/docs) |
+  | Prerequisites | - [Rune of Freezing](https://example.com) <br></br> - [Rune of Protection](https://example.com) <br></br> - [Portal Rune](https://example.com) <br></br> - [Rune of Protection](https://example.com) <br></br> - [Reveal Rune (Myrtle Beach, SC and Tokyo Dome, JP)](https://example.com) |
 
   | Rewards |  |  |
   | --- | --- | --- |
   | ***Gold*** | ***XP*** | ***Rune*** |
-  | 2500 <img src="\img\Gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 500 <img src="\img\XP.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | Rune of Dragons |
+  | 2500 <img src="/img/docs/multi-use/infobox-assets/gold.webp" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 500 <img src="/img/docs/multi-use/infobox-assets/xp.webp" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | [Rune of Dragons](https://example.com) |
 
   | In Other Versions |  |
   | --- | --- |
-  | [MagiQuest Chronicles](https://magiquest.wiki) | [MagiQuest Evergreen](https://magiquest.wiki) |
+  | [MagiQuest Chronicles](https://example.com) | [MagiQuest Evergreen](https://example.com) |
 </details>
 
 :::note
 
-This page is about the adventure in MagiQuest Legacy. For other versions, see [here](https://magiquest.wiki).
+This page is about the adventure in MagiQuest Legacy. For other versions, see [here](https://example.com).
 
 :::
 
