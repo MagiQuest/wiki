@@ -1,9 +1,26 @@
-# MagiQuest Fandom Wiki Mirror
-[![Deploy to GitHub Pages](https://github.com/MagiQuest/wiki-mirror/actions/workflows/deploy.yml/badge.svg)](https://github.com/MagiQuest/wiki-mirror/actions/workflows/deploy.yml)
+# MagiQuest Wiki
+[![Deploy to GitHub Pages](https://github.com/MagiQuest/wiki/actions/workflows/deploy.yml/badge.svg)](https://github.com/MagiQuest/wiki/actions/workflows/deploy.yml)
 
-> [!Warning]
-> This website is in very early access and is to show the possibility of a Fandom alternative to the MagiQuest community. For the full wiki, go to [magiquest.fandom.com](https://magiquest.fandom.com)!
+## Getting Started
 
-## Repo Setup
+### Prerequisites
 
-Commits are only pushed to [main branch](https://github.com/MagiQuest/wiki/tree/main) when a new "version" is available. Commits pushed to main are then ran through a workflow to see if they build properly, and if they pass are then pushed to the [gh-pages branch](https://github.com/MagiQuest/wiki/tree/gh-pages). This is where the site is built and made live.
+We expect you to have an understanding of [Markdown](https://commonmark.org/help/), some basic knowledge of HTML, and your terminal. Most wiki pages are built with Markdown, and some contain HTML for special features.
+
+You should also have [Node.js](https://nodejs.org) version 18 or higher, [Git](https://git-scm.com), and an [IDE](https://code.visualstudio.com) installed on your system.
+
+### Installation
+
+To install the dependencies, run the following command:
+
+```bash
+npm install
+```
+
+### Usage
+
+For live updates while editing, run the following command to start a development server:
+
+```bash
+npm run start
+```
