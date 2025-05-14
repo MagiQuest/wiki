@@ -6,7 +6,7 @@ tags:
   - Adventures
   - Legacy
   - Legacy Base Content
-sidebar_position: 1
+sidebar_position: 4
 slug: /adventures/legacy/dragon_adventure
 ---
 

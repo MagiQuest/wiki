@@ -1,11 +1,12 @@
 ---
 id: adventures
-title: Adventures
-description: The Adventures category
+title: Legacy Adventures
+description: The Legacy Adventures category
 tags:
   - Adventures
-sidebar_position: 2
-slug: /adventures
+  - Legacy
+sidebar_position: 3
+slug: /adventures/legacy
 ---
 
 import DocCardList from '@theme/DocCardList';
