@@ -1,8 +1,9 @@
 ---
-slug: welcome
-title: Welcome!👋
-unlisted: true
-authors: [duke]
+slug: refactorlaunch
+title: Refactor Launch
+date: 2025-05-17T00:00
+draft: true
+authors: [duke, death]
 tags: [Getting started]
 ---
 
