@@ -1,0 +1,82 @@
+---
+id: dragonadventure
+title: Dragon Adventure
+description: The Dragon Adventure is focused on the player defeating the dragon Charlock, taking back all the trasure, and forcing him to leave the Kingdom alone.
+tags:
+  - Adventures
+  - Legacy
+  - Legacy Base Content
+slug: /legacy/adventures/dragon_adventure
+draft: true
+---
+
+<details>
+  <summary>Dragon Adventure Infobox:</summary>
+  | Dragon Adventure |
+  | --- |
+  | <img src="" alt="Dragon Adventure Art" width="270" hight="338" title="Dragon Adventure Art"></img> |
+
+  | General Information |  |
+  | --- | --- |
+  | Content Set | Legacy Base Content |
+  | Adventure Giver | Quest Master |
+  | Reward Giver | Charlock |
+  | Prerequisites | - [Rune of Freezing](https://example.com) <br></br> - [Rune of Protection](https://example.com) <br></br> - [Portal Rune](https://example.com) <br></br> - [Rune of Protection](https://example.com) <br></br> - [Reveal Rune (Myrtle Beach, SC and Tokyo Dome, JP)](https://example.com) |
+
+  | Rewards |  |  |
+  | --- | --- | --- |
+  | ***Gold*** | ***XP*** | ***Rune*** |
+  | 2500 <img src="/img/docs/multi-use/infobox-assets/gold.png" alt="Gold Icon" width="24" hight="24" title="Gold Icon"></img> | 500 <img src="/img/docs/multi-use/infobox-assets/xp.png" alt="XP Icon" width="24" hight="25" title="XP Icon"></img> | [Rune of Dragons](https://example.com) |
+
+  | In Other Versions |  |
+  | --- | --- |
+  | [MagiQuest Chronicles](https://example.com) | [MagiQuest Evergreen](https://example.com) |
+</details>
+
+:::note
+
+This page is about the adventure in MagiQuest Legacy. For other versions, see [here](https://example.com).
+
+:::
+
+The Dragon Adventure, a.k.a. the Red Dragon Adventure or Fire Dragon Adventure, is focused on the player defeating the wicked dragon Charlock who is wreaking havoc across the Kingdom and stealing the people's valuables. The Quest Master tasks you with entering the dragon's lair battling him, taking back all the trasure, and forcing Charlock to leave the Kingdom alone. This Adventure has a much more challenging version referred to as the Heroic Dragon Adventure.
+
+## Walkthrough
+
+### Requirements
+
+This section will vary based on how the adventure is structured. All of them will have a short “Requirements” subheading. Then further subheadings divide the adventure into sections.
+
+### Section 2
+
+There should be multiple steps in each section.
+
+### Section 3
+
+Another example would perhaps be dividing the Princess and Goblin adventure into “Dueling the Goblin King” and “Finding the Princess' Jewels.”
+
+## Rune Reward
+
+<img src="" alt="Rune Image Here" width="137" hight="192" title="Image description here"></img>
+
+Titled after whatever the name of the rune is, explain it’s uses. Is it used in dueling? If so, what is the effect and upgraded effect? Even if it isn’t used in a duel, usually it’s power is explained by the character who gives it to you. Does it unlock anything else?
+
+## Strategy and Tips
+
+- This should be a bullet point list on anything useful an average person should know about how to complete the adventure, that can’t be addressed easily in the walk through. These should apply to most locations.
+
+## Collaboration
+
+Only include this if it’s relevant. Not everyone is going to have knowledge of these functions since they’re obscure, but at the very least the base 5 adventures have them.
+
+## Trivia
+
+- Anything else that’s worth mentioning or is fun. Can be location specific.
+
+## Locations
+
+- Use the complete list from the Rune of Dragons page as a basis since it has all of them in the proper order. Remove locations as needed.
+
+## References
+
+  - It would be nice to cite some sources, you can do so at the end.

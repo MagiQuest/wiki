@@ -4,8 +4,8 @@ title: Home
 description: MagiQuest is a live-action roleplaying and scavenger game.
 tags:
   - Home
-sidebar_position: 1
 slug: /
+draft: true
 ---
 
 import ThemedImage from '@theme/ThemedImage';
