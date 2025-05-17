@@ -6,8 +6,8 @@ tags:
   - Runes
   - Quests
   - Content Set Tag Here [if it has one]
-sidebar_position: #
 slug: /template_rune
+draft: true
 ---
 
 <details>

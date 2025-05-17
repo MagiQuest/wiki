@@ -6,8 +6,8 @@ tags:
   - Adventures
   - Legacy
   - Content Set Tag Here [if it has one]
-sidebar_position: #
 slug: /template_adventure
+draft: true
 ---
 
 <details>

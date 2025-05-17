@@ -5,8 +5,8 @@ description: This is a description.
 tags:
   - Location
   - REALM TYPE Realm
-sidebar_position: #
 slug: /template_location
+draft: true
 ---
 
 <details>

@@ -6,8 +6,8 @@ tags:
   - Category
   - Legacy
   - Content Set Tag Here [if it has one]
-sidebar_position: #
 slug: /template_category
+draft: true
 ---
 
 import DocCardList from '@theme/DocCardList';
