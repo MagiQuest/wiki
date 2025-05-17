@@ -62,9 +62,21 @@ const config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'docsSidebar',
+          sidebarId: 'legacySidebar',
           position: 'left',
-          label: 'Wiki',
+          label: 'Legacy',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'chroniclesSidebar',
+          position: 'left',
+          label: 'Chronicles',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'evergreenSidebar',
+          position: 'left',
+          label: 'Evergreen',
         },
         {
           to: '/blog',
