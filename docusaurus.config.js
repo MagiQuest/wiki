@@ -59,6 +59,7 @@ const config = {
         alt: 'MQ Wiki Logo',
         src: 'img/site-assets/mq.png',
       },
+      hideOnScroll: true,
       items: [
         {
           type: 'docSidebar',
