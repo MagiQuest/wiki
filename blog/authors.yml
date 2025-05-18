@@ -1,11 +1,23 @@
 duke:
   name: dukedotdev
   title: Administrator @ magiquest.wiki
+  description: 'temp'
   url: https://dukedot.dev
   image_url: https://github.com/dukedotdev.png
-  email: contact@dukedot.dev
+  email: admins@magiquest.wiki
+  socials:
+    github: dukedotdev
+    website: https://dukedot.dev
+    bluesky: dukedot.dev
+  page: true
+
 death:
   name: cappytain
   title: Administrator @ magiquest.wiki
-  url: https://github.com/cappytain33
+  description: 'temp'
   image_url: https://github.com/cappytain33.png
+  email: admins@magiquest.wiki
+  socials:
+    github: cappytain33
+    bluesky: cappytain.bsky.social
+  page: true
