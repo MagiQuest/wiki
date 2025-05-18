@@ -35,6 +35,8 @@ const config = {
           sidebarPath: './sidebars.js',
           editUrl:
             'https://github.com/MagiQuest/wiki/edit/main/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
