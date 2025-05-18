@@ -1,19 +1,19 @@
 ---
-id: templatecategory
-title: Template Category
-description: This is a description.
+id: templatecategory # The ID of the page should always be the same as the file name, just without the extension and any special characters
+title: Template Category # The title of the page should be the same as the ID, but should be capitalized and formatted like a proper title
+description: This is a description. # Give a short description of the page, can be a sentence or two and is mostly used for embeds
 tags:
   - Category
   - Legacy
   - Content Set Tag Here [if it has one]
-slug: /template_category
-draft: true
+slug: /template_category # The slug of the page should be the same as the ID, but should be formatted like a URL with proper continuity & underscores
+draft: true # This will be set to false when the page is approved for publishing. Do NOT edit this line unless you're a wiki admin & know what you're doing
 ---
-
+{/* Import reqs for the DocCardList component */}
 import DocCardList from '@theme/DocCardList';
 
 Category page text & description stuff here
 
 ## Check out the other pages in this category!
-
+{/* Display the DocCardList component */}
 <DocCardList />
