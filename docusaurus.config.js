@@ -50,7 +50,7 @@ const config = {
     announcementBar: {
       id: 'refactoring',
       content:
-        'This wiki is currently out-of-date, please use <a href="https://magiquest.wiki.gg">magiquest.wiki.gg</a>!',
+        'We are currently remaking our wiki, please use <a href="https://magiquest.fandom.com">magiquest.fandom.com</a> for now!',
       backgroundColor: '#091E42',
       textColor: '#fafbfc',
       isCloseable: false,
